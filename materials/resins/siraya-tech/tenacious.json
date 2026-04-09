@@ -1,0 +1,15 @@
+{
+  "brand": "Siraya Tech",
+  "product": "Tenacious",
+  "type": "flexible",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.07,
+    "ease_of_print": "medium",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 50
+  },
+  "contributed_by": "swordlab"
+}

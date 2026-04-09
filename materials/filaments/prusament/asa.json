@@ -1,0 +1,20 @@
+{
+  "brand": "Prusament",
+  "product": "ASA",
+  "type": "ASA",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.07,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 240,
+    "nozzle_temp_max": 260,
+    "bed_temp_min": 95,
+    "bed_temp_max": 110,
+    "ease_of_print": "low",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 30
+  },
+  "contributed_by": "swordlab"
+}

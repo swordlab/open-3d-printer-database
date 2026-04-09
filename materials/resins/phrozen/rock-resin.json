@@ -1,0 +1,15 @@
+{
+  "brand": "Phrozen",
+  "product": "Rock Resin",
+  "type": "tough",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.15,
+    "ease_of_print": "medium",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 45
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "Elegoo",
+  "product": "Water Washable Resin",
+  "type": "water-washable",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.1,
+    "ease_of_print": "high",
+    "strength": "medium"
+  },
+  "cost": {
+    "typical_price_eur_kg": 32
+  },
+  "contributed_by": "swordlab"
+}

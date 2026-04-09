@@ -1,0 +1,20 @@
+{
+  "brand": "Polymaker",
+  "product": "PolyFlex TPU95",
+  "type": "TPU",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.22,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 210,
+    "nozzle_temp_max": 230,
+    "bed_temp_min": 40,
+    "bed_temp_max": 60,
+    "ease_of_print": "low",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 35
+  },
+  "contributed_by": "swordlab"
+}

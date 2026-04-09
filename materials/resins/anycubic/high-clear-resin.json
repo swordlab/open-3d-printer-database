@@ -1,0 +1,15 @@
+{
+  "brand": "Anycubic",
+  "product": "High Clear Resin",
+  "type": "clear",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.1,
+    "ease_of_print": "medium",
+    "strength": "medium"
+  },
+  "cost": {
+    "typical_price_eur_kg": 35
+  },
+  "contributed_by": "swordlab"
+}

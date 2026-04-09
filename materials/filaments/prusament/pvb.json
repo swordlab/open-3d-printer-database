@@ -1,0 +1,20 @@
+{
+  "brand": "Prusament",
+  "product": "PVB",
+  "type": "PVB",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.08,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 200,
+    "nozzle_temp_max": 220,
+    "bed_temp_min": 70,
+    "bed_temp_max": 80,
+    "ease_of_print": "medium",
+    "strength": "medium"
+  },
+  "cost": {
+    "typical_price_eur_kg": 35
+  },
+  "contributed_by": "swordlab"
+}

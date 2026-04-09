@@ -1,0 +1,15 @@
+{
+  "brand": "Anycubic",
+  "product": "ABS-Like Resin Pro 2",
+  "type": "abs-like",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.12,
+    "ease_of_print": "high",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 32
+  },
+  "contributed_by": "swordlab"
+}

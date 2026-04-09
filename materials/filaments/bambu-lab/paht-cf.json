@@ -1,0 +1,20 @@
+{
+  "brand": "Bambu Lab",
+  "product": "PAHT-CF",
+  "type": "Nylon-CF",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.18,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 280,
+    "nozzle_temp_max": 320,
+    "bed_temp_min": 80,
+    "bed_temp_max": 100,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 65
+  },
+  "contributed_by": "swordlab"
+}

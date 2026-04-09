@@ -1,0 +1,20 @@
+{
+  "brand": "Overture",
+  "product": "PLA",
+  "type": "PLA",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.24,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 200,
+    "nozzle_temp_max": 220,
+    "bed_temp_min": 55,
+    "bed_temp_max": 65,
+    "ease_of_print": "high",
+    "strength": "medium"
+  },
+  "cost": {
+    "typical_price_eur_kg": 17
+  },
+  "contributed_by": "swordlab"
+}

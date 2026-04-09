@@ -1,0 +1,20 @@
+{
+  "brand": "ColorFabb",
+  "product": "HT",
+  "type": "co-polyester",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.16,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 250,
+    "nozzle_temp_max": 270,
+    "bed_temp_min": 100,
+    "bed_temp_max": 120,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 45
+  },
+  "contributed_by": "swordlab"
+}

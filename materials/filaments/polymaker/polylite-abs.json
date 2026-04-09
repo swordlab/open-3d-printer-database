@@ -1,0 +1,20 @@
+{
+  "brand": "Polymaker",
+  "product": "PolyLite ABS",
+  "type": "ABS",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.04,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 240,
+    "nozzle_temp_max": 260,
+    "bed_temp_min": 90,
+    "bed_temp_max": 110,
+    "ease_of_print": "low",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 22
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "Phrozen",
+  "product": "Nylon-Like Resin",
+  "type": "engineering",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.1,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 48
+  },
+  "contributed_by": "swordlab"
+}

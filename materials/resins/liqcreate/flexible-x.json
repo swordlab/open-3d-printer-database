@@ -1,0 +1,15 @@
+{
+  "brand": "Liqcreate",
+  "product": "Flexible-X",
+  "type": "flexible",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.05,
+    "ease_of_print": "medium",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 55
+  },
+  "contributed_by": "swordlab"
+}

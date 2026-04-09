@@ -1,0 +1,15 @@
+{
+  "brand": "Phrozen",
+  "product": "Onyx Rigid Pro410",
+  "type": "engineering",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.12,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 55
+  },
+  "contributed_by": "swordlab"
+}

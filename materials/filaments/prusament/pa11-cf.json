@@ -1,0 +1,20 @@
+{
+  "brand": "Prusament",
+  "product": "PA11-CF",
+  "type": "Nylon-CF",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.12,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 270,
+    "nozzle_temp_max": 290,
+    "bed_temp_min": 80,
+    "bed_temp_max": 100,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 65
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,20 @@
+{
+  "brand": "ColorFabb",
+  "product": "bronzeFill",
+  "type": "PLA-metal",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 3.9,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 200,
+    "nozzle_temp_max": 220,
+    "bed_temp_min": 50,
+    "bed_temp_max": 60,
+    "ease_of_print": "medium",
+    "strength": "low"
+  },
+  "cost": {
+    "typical_price_eur_kg": 55
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "Liqcreate",
+  "product": "Strong-X",
+  "type": "engineering",
+  "technology": "SLA",
+  "specs": {
+    "density_g_cm3": 1.15,
+    "ease_of_print": "low",
+    "strength": "very-high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 60
+  },
+  "contributed_by": "swordlab"
+}

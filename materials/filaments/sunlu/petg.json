@@ -1,0 +1,20 @@
+{
+  "brand": "Sunlu",
+  "product": "PETG",
+  "type": "PETG",
+  "technology": "FDM",
+  "specs": {
+    "density_g_cm3": 1.27,
+    "diameter_mm": 1.75,
+    "nozzle_temp_min": 230,
+    "nozzle_temp_max": 250,
+    "bed_temp_min": 70,
+    "bed_temp_max": 80,
+    "ease_of_print": "medium",
+    "strength": "high"
+  },
+  "cost": {
+    "typical_price_eur_kg": 16
+  },
+  "contributed_by": "swordlab"
+}
