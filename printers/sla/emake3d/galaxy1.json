@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Emake3D",
+  "model": "GALAXY1",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 400.0,
+      "y": 200.0,
+      "z": 400.0
+    },
+    "build_volume_cm3": 32000.0,
+    "resolution_x": 8000,
+    "resolution_y": 4000,
+    "pixel_size_um": 50.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

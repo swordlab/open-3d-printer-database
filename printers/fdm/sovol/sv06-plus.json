@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Sovol",
+  "model": "SV06 Plus",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 320,
+    "heater_power_w": 230
+  },
+  "cost": {
+    "typical_price_eur": 279,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 200
+  },
+  "contributed_by": "swordlab"
+}

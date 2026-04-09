@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Wanhao",
+  "model": "D7",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 121.0,
+      "y": 68.5,
+      "z": 180.0
+    },
+    "build_volume_cm3": 1491.4,
+    "resolution_x": 2560,
+    "resolution_y": 1440,
+    "pixel_size_um": 47.2
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

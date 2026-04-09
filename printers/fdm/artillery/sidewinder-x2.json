@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Artillery",
+  "model": "Sidewinder X2",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 299,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 200
+  },
+  "contributed_by": "swordlab"
+}

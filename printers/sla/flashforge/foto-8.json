@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Flashforge",
+  "model": "FOTO 8",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 192.0,
+      "y": 120.0,
+      "z": 200.0
+    },
+    "build_volume_cm3": 4608.0,
+    "resolution_x": 3840,
+    "resolution_y": 2400,
+    "pixel_size_um": 50.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

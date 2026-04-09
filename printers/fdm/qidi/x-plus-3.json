@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Qidi",
+  "model": "X-Plus 3",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 500,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 699,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 240
+  },
+  "contributed_by": "swordlab"
+}

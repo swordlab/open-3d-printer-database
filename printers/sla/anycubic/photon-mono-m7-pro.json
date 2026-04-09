@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Photon Mono M7 Pro",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 223.6,
+      "y": 127.0,
+      "z": 230.0
+    },
+    "build_volume_cm3": 6531.3,
+    "power_w": 80,
+    "resolution_x": 13312,
+    "resolution_y": 5120,
+    "pixel_size_um": 16.8
+  },
+  "cost": {
+    "typical_price_eur": 549,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

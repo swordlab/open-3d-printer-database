@@ -1,0 +1,22 @@
+{
+  "manufacturer": "FlashForge",
+  "model": "Creator 4",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 700,
+    "heater_power_w": 500
+  },
+  "cost": {
+    "typical_price_eur": 1999,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 300
+  },
+  "contributed_by": "swordlab"
+}

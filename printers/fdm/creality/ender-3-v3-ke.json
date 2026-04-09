@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender 3 V3 KE",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 300,
+    "heater_power_w": 220
+  },
+  "cost": {
+    "typical_price_eur": 299,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

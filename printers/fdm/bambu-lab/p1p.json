@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "P1P",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 1000,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 549,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

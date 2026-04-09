@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Nova3D",
+  "model": "ELFIN2 MONO SE",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 75.0,
+      "y": 130.0,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1462.5,
+    "resolution_x": 1470,
+    "resolution_y": 2549,
+    "pixel_size_um": 51.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

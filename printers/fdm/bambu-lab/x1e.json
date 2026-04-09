@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "X1E",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 1200,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 1799,
+    "maintenance_eur_year": 150
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 110,
+    "typical_nozzle_temp": 280
+  },
+  "contributed_by": "swordlab"
+}

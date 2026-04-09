@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Jupiter SE",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 120
+  },
+  "cost": {
+    "typical_price_eur": 599,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

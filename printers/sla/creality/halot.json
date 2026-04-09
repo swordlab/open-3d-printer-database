@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "HALOT",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 198.1,
+      "y": 123.8,
+      "z": 210.0
+    },
+    "build_volume_cm3": 5152.9,
+    "resolution_x": 5760,
+    "resolution_y": 3600,
+    "pixel_size_um": 34.4
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

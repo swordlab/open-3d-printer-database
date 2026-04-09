@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Epax",
+  "model": "DX10",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 218.9,
+      "y": 123.1,
+      "z": 120.0
+    },
+    "build_volume_cm3": 3233.8,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 28.5
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

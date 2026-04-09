@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "H2D",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 1200,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 2499,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 110,
+    "typical_nozzle_temp": 300
+  },
+  "contributed_by": "swordlab"
+}

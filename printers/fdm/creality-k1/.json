@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality K1",
+  "model": "",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 400,
+    "heater_power_w": 280
+  },
+  "cost": {
+    "typical_price_eur": 549,
+    "maintenance_eur_year": 70
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

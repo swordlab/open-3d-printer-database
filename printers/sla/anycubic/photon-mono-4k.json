@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON MONO 4K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 134.4,
+      "y": 84.0,
+      "z": 165.0
+    },
+    "build_volume_cm3": 1862.8,
+    "resolution_x": 3840,
+    "resolution_y": 2400,
+    "pixel_size_um": 35.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

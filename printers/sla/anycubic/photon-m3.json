@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON M3",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 163.8,
+      "y": 102.4,
+      "z": 180.0
+    },
+    "build_volume_cm3": 3019.9,
+    "resolution_x": 4096,
+    "resolution_y": 2560,
+    "pixel_size_um": 40.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

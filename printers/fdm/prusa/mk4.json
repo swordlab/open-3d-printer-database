@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Prusa",
+  "model": "MK4",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 360,
+    "heater_power_w": 260
+  },
+  "cost": {
+    "typical_price_eur": 699,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 215
+  },
+  "contributed_by": "swordlab"
+}

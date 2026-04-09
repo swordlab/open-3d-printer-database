@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Flashforge",
+  "model": "FOTO 6",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 130.0,
+      "y": 78.0,
+      "z": 155.0
+    },
+    "build_volume_cm3": 1571.7,
+    "resolution_x": 2600,
+    "resolution_y": 1560,
+    "pixel_size_um": 50.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

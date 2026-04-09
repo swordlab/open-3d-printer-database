@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Peopoly",
+  "model": "PHENOM XXL V2",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 526.1,
+      "y": 295.9,
+      "z": 550.0
+    },
+    "build_volume_cm3": 85622.7,
+    "resolution_x": 3840,
+    "resolution_y": 2160,
+    "pixel_size_um": 137.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

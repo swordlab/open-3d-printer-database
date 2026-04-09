@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Phrozen",
+  "model": "Sonic XL 4K 2022",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 80
+  },
+  "cost": {
+    "typical_price_eur": 699,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

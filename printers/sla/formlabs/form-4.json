@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Formlabs",
+  "model": "Form 4",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 120
+  },
+  "cost": {
+    "typical_price_eur": 4499,
+    "maintenance_eur_year": 500
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

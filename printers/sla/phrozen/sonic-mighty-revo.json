@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Phrozen",
+  "model": "SONIC MIGHTY REVO",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 223.8,
+      "y": 127.0,
+      "z": 235.0
+    },
+    "build_volume_cm3": 6677.3,
+    "resolution_x": 13320,
+    "resolution_y": 5120,
+    "pixel_size_um": 16.8
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

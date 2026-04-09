@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON P1 MAX",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 285.7,
+      "y": 214.3,
+      "z": 300.0
+    },
+    "build_volume_cm3": 18365.0,
+    "resolution_x": 11520,
+    "resolution_y": 8640,
+    "pixel_size_um": 24.8
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Photon Mono M5s",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 218.9,
+      "y": 122.9,
+      "z": 200.0
+    },
+    "build_volume_cm3": 5379.2,
+    "power_w": 60,
+    "resolution_x": 11520,
+    "resolution_y": 5120,
+    "pixel_size_um": 19.0
+  },
+  "cost": {
+    "typical_price_eur": 399,
+    "maintenance_eur_year": 75
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

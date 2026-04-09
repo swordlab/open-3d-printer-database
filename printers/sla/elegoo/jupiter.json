@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "JUPITER",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 277.8,
+      "y": 156.3,
+      "z": 300.0
+    },
+    "build_volume_cm3": 13025.3,
+    "resolution_x": 5448,
+    "resolution_y": 3064,
+    "pixel_size_um": 51.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

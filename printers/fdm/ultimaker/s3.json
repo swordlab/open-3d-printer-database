@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Ultimaker",
+  "model": "S3",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 3999,
+    "maintenance_eur_year": 350
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

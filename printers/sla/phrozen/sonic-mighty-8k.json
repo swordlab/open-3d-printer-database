@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Phrozen",
+  "model": "Sonic Mighty 8K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 218.9,
+      "y": 123.1,
+      "z": 235.0
+    },
+    "build_volume_cm3": 6332.9,
+    "power_w": 60,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 28.5
+  },
+  "cost": {
+    "typical_price_eur": 499,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

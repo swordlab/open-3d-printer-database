@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Centauri",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 400,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 349,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

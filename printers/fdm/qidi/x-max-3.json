@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Qidi",
+  "model": "X-Max 3",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 650,
+    "heater_power_w": 450
+  },
+  "cost": {
+    "typical_price_eur": 899,
+    "maintenance_eur_year": 110
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 240
+  },
+  "contributed_by": "swordlab"
+}

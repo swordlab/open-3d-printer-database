@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo Neptune",
+  "model": "4 V2",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 380,
+    "heater_power_w": 260
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

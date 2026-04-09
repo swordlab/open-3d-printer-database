@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Kobra 3",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 400,
+    "heater_power_w": 280
+  },
+  "cost": {
+    "typical_price_eur": 349,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

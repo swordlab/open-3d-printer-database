@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Kingroon",
+  "model": "KLP1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

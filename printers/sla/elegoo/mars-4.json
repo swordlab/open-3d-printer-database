@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Mars 4",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 153.4,
+      "y": 77.8,
+      "z": 175.0
+    },
+    "build_volume_cm3": 2086.9,
+    "power_w": 35,
+    "resolution_x": 8520,
+    "resolution_y": 4320,
+    "pixel_size_um": 18.0
+  },
+  "cost": {
+    "typical_price_eur": 219,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

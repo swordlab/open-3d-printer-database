@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Epax",
+  "model": "X156 4KCOLOR",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 345.6,
+      "y": 194.4,
+      "z": 400.0
+    },
+    "build_volume_cm3": 26873.9,
+    "resolution_x": 3840,
+    "resolution_y": 2160,
+    "pixel_size_um": 90.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

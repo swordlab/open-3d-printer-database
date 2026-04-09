@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "SATURN4 ULTRA 16K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 211.7,
+      "y": 118.4,
+      "z": 220.0
+    },
+    "build_volume_cm3": 5512.4,
+    "resolution_x": 15120,
+    "resolution_y": 6230,
+    "pixel_size_um": 14.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

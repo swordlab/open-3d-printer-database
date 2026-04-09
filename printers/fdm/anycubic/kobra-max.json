@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Kobra Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 500,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 499,
+    "maintenance_eur_year": 70
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 200
+  },
+  "contributed_by": "swordlab"
+}

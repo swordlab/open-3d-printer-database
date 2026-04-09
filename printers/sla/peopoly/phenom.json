@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Peopoly",
+  "model": "PHENOM",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 276.5,
+      "y": 155.5,
+      "z": 400.0
+    },
+    "build_volume_cm3": 17199.3,
+    "resolution_x": 3840,
+    "resolution_y": 2160,
+    "pixel_size_um": 72.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

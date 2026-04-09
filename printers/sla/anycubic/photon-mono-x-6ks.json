@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Photon Mono X 6Ks",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 195.8,
+      "y": 122.4,
+      "z": 200.0
+    },
+    "build_volume_cm3": 4794.2,
+    "power_w": 75,
+    "resolution_x": 5760,
+    "resolution_y": 3600,
+    "pixel_size_um": 34.0
+  },
+  "cost": {
+    "typical_price_eur": 499,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

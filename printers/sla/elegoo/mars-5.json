@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Mars 5",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 143.4,
+      "y": 89.6,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1927.7,
+    "power_w": 35,
+    "resolution_x": 4098,
+    "resolution_y": 2560,
+    "pixel_size_um": 35.0
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

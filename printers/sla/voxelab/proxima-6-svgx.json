@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Voxelab",
+  "model": "PROXIMA 6 SVGX",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 130.6,
+      "y": 82.6,
+      "z": 155.0
+    },
+    "build_volume_cm3": 1672.0,
+    "resolution_x": 2560,
+    "resolution_y": 1620,
+    "pixel_size_um": 51.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

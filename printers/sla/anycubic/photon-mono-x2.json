@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Photon Mono X2",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 196.6,
+      "y": 122.9,
+      "z": 200.0
+    },
+    "build_volume_cm3": 4831.9,
+    "power_w": 55,
+    "resolution_x": 4096,
+    "resolution_y": 2560,
+    "pixel_size_um": 48.0
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

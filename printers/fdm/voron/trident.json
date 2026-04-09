@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Voron",
+  "model": "Trident",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 700,
+    "heater_power_w": 450
+  },
+  "cost": {
+    "typical_price_eur": 800,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 110,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Saturn 3 Ultra",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 218.9,
+      "y": 122.9,
+      "z": 260.0
+    },
+    "build_volume_cm3": 6993.0,
+    "power_w": 60,
+    "resolution_x": 11520,
+    "resolution_y": 5120,
+    "pixel_size_um": 19.0
+  },
+  "cost": {
+    "typical_price_eur": 449,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

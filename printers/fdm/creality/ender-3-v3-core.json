@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender-3 V3 Core",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 300,
+    "heater_power_w": 200
+  },
+  "cost": {
+    "typical_price_eur": 199,
+    "maintenance_eur_year": 35
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 200
+  },
+  "contributed_by": "swordlab"
+}

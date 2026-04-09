@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Phrozen",
+  "model": "Sonic Mega 8K",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 330.2,
+      "y": 185.8,
+      "z": 400.0
+    },
+    "build_volume_cm3": 24538.2,
+    "power_w": 100,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 43.0
+  },
+  "cost": {
+    "typical_price_eur": 999,
+    "maintenance_eur_year": 120
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

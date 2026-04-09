@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Epax",
+  "model": "E10 5K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 221.4,
+      "y": 129.6,
+      "z": 250.0
+    },
+    "build_volume_cm3": 7173.4,
+    "resolution_x": 4920,
+    "resolution_y": 2880,
+    "pixel_size_um": 45.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

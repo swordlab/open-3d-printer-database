@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON X",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 192.0,
+      "y": 120.0,
+      "z": 245.0
+    },
+    "build_volume_cm3": 5644.8,
+    "resolution_x": 2560,
+    "resolution_y": 1600,
+    "pixel_size_um": 75.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

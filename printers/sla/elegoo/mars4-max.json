@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "MARS4 MAX",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 195.8,
+      "y": 122.4,
+      "z": 150.0
+    },
+    "build_volume_cm3": 3595.6,
+    "resolution_x": 5760,
+    "resolution_y": 3600,
+    "pixel_size_um": 34.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

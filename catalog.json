@@ -1,0 +1,5376 @@
+[
+  {
+    "full_name": "Anet N4",
+    "manufacturer": "Anet",
+    "model": "N4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 135.0
+      },
+      "build_volume_cm3": 1111.1,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anet N7",
+    "manufacturer": "Anet",
+    "model": "N7",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 300.0
+      },
+      "build_volume_cm3": 6912.0,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 2",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 229,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 2 Max",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 2 Max",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 2 Pro",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 2 Pro",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 380,
+      "heater_power_w": 260
+    },
+    "cost": {
+      "typical_price_eur": 279,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 3",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 3 Combo",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 3 Combo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 65
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra 3 Max",
+    "manufacturer": "Anycubic",
+    "model": "Kobra 3 Max",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 600,
+      "heater_power_w": 400
+    },
+    "cost": {
+      "typical_price_eur": 599,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Kobra Max",
+    "manufacturer": "Anycubic",
+    "model": "Kobra Max",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 499,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1275.7,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon D2",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON D2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 130.6,
+        "y": 73.4,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1582.1,
+      "resolution_x": 2560,
+      "resolution_y": 1440,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon M3",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON M3",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 163.8,
+        "y": 102.4,
+        "z": 180.0
+      },
+      "build_volume_cm3": 3019.9,
+      "resolution_x": 4096,
+      "resolution_y": 2560,
+      "pixel_size_um": 40.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon M3 Max",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON M3 MAX",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 298.1,
+        "y": 165.6,
+        "z": 300.0
+      },
+      "build_volume_cm3": 14808.6,
+      "resolution_x": 6480,
+      "resolution_y": 3600,
+      "pixel_size_um": 46.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon M3 Plus",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON M3 PLUS",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 198.2,
+        "y": 123.8,
+        "z": 245.0
+      },
+      "build_volume_cm3": 6012.0,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.4
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon M3 Premium",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON M3 PREMIUM",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 250.0
+      },
+      "build_volume_cm3": 6737.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1779.8,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono 4 Ultra",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO 4 ULTRA",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 153.4,
+        "y": 87.0,
+        "z": 165.0
+      },
+      "build_volume_cm3": 2203.2,
+      "resolution_x": 9024,
+      "resolution_y": 5120,
+      "pixel_size_um": 17.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono 4K",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO 4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 134.4,
+        "y": 84.0,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1862.8,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M5",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO M5",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 200.0
+      },
+      "build_volume_cm3": 5379.2,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M5s Pro",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO M5S PRO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 223.6,
+        "y": 127.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 5679.4,
+      "resolution_x": 13312,
+      "resolution_y": 5120,
+      "pixel_size_um": 16.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono SE",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO SE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 160.0
+      },
+      "build_volume_cm3": 1725.9,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono SQ",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO SQ",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 120.0,
+        "y": 128.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 3072.0,
+      "resolution_x": 2400,
+      "resolution_y": 2560,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono X",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO X",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 245.0
+      },
+      "build_volume_cm3": 5644.8,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono X 6K",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON MONO X 6K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 198.2,
+        "y": 123.8,
+        "z": 245.0
+      },
+      "build_volume_cm3": 6012.0,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.4
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon P1",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON P1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 223.6,
+        "y": 127.0,
+        "z": 230.0
+      },
+      "build_volume_cm3": 6531.3,
+      "resolution_x": 13312,
+      "resolution_y": 5120,
+      "pixel_size_um": 16.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon P1 Max",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON P1 MAX",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 285.7,
+        "y": 214.3,
+        "z": 300.0
+      },
+      "build_volume_cm3": 18365.0,
+      "resolution_x": 11520,
+      "resolution_y": 8640,
+      "pixel_size_um": 24.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon S",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON S",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1358.0,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Ultra",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON ULTRA",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 102.4,
+        "y": 57.6,
+        "z": 165.0
+      },
+      "build_volume_cm3": 973.2,
+      "resolution_x": 1280,
+      "resolution_y": 720,
+      "pixel_size_um": 80.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon X",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON X",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 245.0
+      },
+      "build_volume_cm3": 5644.8,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Zero",
+    "manufacturer": "Anycubic",
+    "model": "PHOTON ZERO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 55.4,
+        "y": 98.6,
+        "z": 150.0
+      },
+      "build_volume_cm3": 819.6,
+      "resolution_x": 480,
+      "resolution_y": 854,
+      "pixel_size_um": 115.4
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono 2",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono 2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 165.0
+      },
+      "build_volume_cm3": 2119.4,
+      "power_w": 30,
+      "resolution_x": 4096,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {
+      "typical_price_eur": 189,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono 4",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono 4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 153.4,
+        "y": 87.0,
+        "z": 165.0
+      },
+      "build_volume_cm3": 2203.2,
+      "power_w": 30,
+      "resolution_x": 9024,
+      "resolution_y": 5120,
+      "pixel_size_um": 17.0
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M5s",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono M5s",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 200.0
+      },
+      "build_volume_cm3": 5379.2,
+      "power_w": 60,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 75
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M7",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono M7",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 223.6,
+        "y": 127.0,
+        "z": 230.0
+      },
+      "build_volume_cm3": 6531.3,
+      "power_w": 50,
+      "resolution_x": 13312,
+      "resolution_y": 5120,
+      "pixel_size_um": 16.8
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M7 Max",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono M7 Max",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 298.1,
+        "y": 165.6,
+        "z": 300.0
+      },
+      "build_volume_cm3": 14808.6,
+      "power_w": 80,
+      "resolution_x": 6480,
+      "resolution_y": 3600,
+      "pixel_size_um": 46.0
+    },
+    "cost": {
+      "typical_price_eur": 699,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono M7 Pro",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono M7 Pro",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 223.6,
+        "y": 127.0,
+        "z": 230.0
+      },
+      "build_volume_cm3": 6531.3,
+      "power_w": 80,
+      "resolution_x": 13312,
+      "resolution_y": 5120,
+      "pixel_size_um": 16.8
+    },
+    "cost": {
+      "typical_price_eur": 549,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono X 6Ks",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono X 6Ks",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 195.8,
+        "y": 122.4,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4794.2,
+      "power_w": 75,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.0
+    },
+    "cost": {
+      "typical_price_eur": 499,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Anycubic Photon Mono X2",
+    "manufacturer": "Anycubic",
+    "model": "Photon Mono X2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 196.6,
+        "y": 122.9,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4831.9,
+      "power_w": 55,
+      "resolution_x": 4096,
+      "resolution_y": 2560,
+      "pixel_size_um": 48.0
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Artillery Genius Pro",
+    "manufacturer": "Artillery",
+    "model": "Genius Pro",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 270,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Artillery Sidewinder X2",
+    "manufacturer": "Artillery",
+    "model": "Sidewinder X2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A1",
+    "manufacturer": "Bambu Lab",
+    "model": "A1",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A1 Combo",
+    "manufacturer": "Bambu Lab",
+    "model": "A1 Combo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 339,
+      "maintenance_eur_year": 65
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A1 Mini",
+    "manufacturer": "Bambu Lab",
+    "model": "A1 Mini",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A1 Mini Combo",
+    "manufacturer": "Bambu Lab",
+    "model": "A1 Mini Combo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A2",
+    "manufacturer": "Bambu Lab",
+    "model": "A2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 800,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab A2 Combo",
+    "manufacturer": "Bambu Lab",
+    "model": "A2 Combo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 800,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab H2D",
+    "manufacturer": "Bambu Lab",
+    "model": "H2D",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1200,
+      "heater_power_w": 400
+    },
+    "cost": {
+      "typical_price_eur": 2499,
+      "maintenance_eur_year": 200
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 300
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab P1P",
+    "manufacturer": "Bambu Lab",
+    "model": "P1P",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 549,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab P1S",
+    "manufacturer": "Bambu Lab",
+    "model": "P1S",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 899,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 90,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab P1S Combo",
+    "manufacturer": "Bambu Lab",
+    "model": "P1S Combo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 1049,
+      "maintenance_eur_year": 95
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 90,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab X1",
+    "manufacturer": "Bambu Lab",
+    "model": "X1",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 1099,
+      "maintenance_eur_year": 100
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab X1 Carbon",
+    "manufacturer": "Bambu Lab",
+    "model": "X1 Carbon",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1000,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 1199,
+      "maintenance_eur_year": 100
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Bambu Lab X1E",
+    "manufacturer": "Bambu Lab",
+    "model": "X1E",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 1200,
+      "heater_power_w": 400
+    },
+    "cost": {
+      "typical_price_eur": 1799,
+      "maintenance_eur_year": 150
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 280
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Concepts3D Athena 12K",
+    "manufacturer": "Concepts3D",
+    "model": "ATHENA 12K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 245.0
+      },
+      "build_volume_cm3": 6589.5,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Concepts3D Athena 8K",
+    "manufacturer": "Concepts3D",
+    "model": "ATHENA 12K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 245.0
+      },
+      "build_volume_cm3": 6602.4,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender 3",
+    "manufacturer": "Creality",
+    "model": "Ender 3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 270,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 179,
+      "maintenance_eur_year": 30
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender 3 V3",
+    "manufacturer": "Creality",
+    "model": "Ender 3 V3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 289,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender 3 V3 KE",
+    "manufacturer": "Creality",
+    "model": "Ender 3 V3 KE",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 300,
+      "heater_power_w": 220
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender 3 V3 Plus",
+    "manufacturer": "Creality",
+    "model": "Ender 3 V3 Plus",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender 3 V3 SE",
+    "manufacturer": "Creality",
+    "model": "Ender 3 V3 SE",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 270,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Ender-3 V3 Core",
+    "manufacturer": "Creality",
+    "model": "Ender-3 V3 Core",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 300,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 35
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality CT-005 Pro",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 250.0
+      },
+      "build_volume_cm3": 5760.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality CT-133 Pro",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 293.8,
+        "y": 165.2,
+        "z": 300.0
+      },
+      "build_volume_cm3": 14562.3,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 76.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Lite CL-89L",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Mage CL-103L",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 228.1,
+        "y": 128.3,
+        "z": 230.0
+      },
+      "build_volume_cm3": 6731.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 29.7
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Mage Pro CL-103",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 228.1,
+        "y": 128.3,
+        "z": 230.0
+      },
+      "build_volume_cm3": 6731.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 29.7
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Max CL-133",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 293.8,
+        "y": 165.2,
+        "z": 300.0
+      },
+      "build_volume_cm3": 14562.3,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 76.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot One CL-60",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 81.0,
+        "y": 128.0,
+        "z": 160.0
+      },
+      "build_volume_cm3": 1658.9,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot One Plus CL-79",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 172.8,
+        "y": 102.4,
+        "z": 160.0
+      },
+      "build_volume_cm3": 2831.2,
+      "resolution_x": 4320,
+      "resolution_y": 2560,
+      "pixel_size_um": 40.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot One Pro CL-70",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 130.6,
+        "y": 122.4,
+        "z": 160.0
+      },
+      "build_volume_cm3": 2556.9,
+      "resolution_x": 2560,
+      "resolution_y": 2400,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Ray CL925",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 198.1,
+        "y": 123.8,
+        "z": 210.0
+      },
+      "build_volume_cm3": 5152.9,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.4
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Sky CL-89",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Sky Plus CL-92",
+    "manufacturer": "Creality",
+    "model": "HALOT",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 198.1,
+        "y": 123.8,
+        "z": 210.0
+      },
+      "build_volume_cm3": 5152.9,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.4
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Mage",
+    "manufacturer": "Creality",
+    "model": "Halot Mage",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 50
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Mage Pro",
+    "manufacturer": "Creality",
+    "model": "Halot Mage Pro",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 60
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot One Plus",
+    "manufacturer": "Creality",
+    "model": "Halot One Plus",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 45
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality Halot Ray",
+    "manufacturer": "Creality",
+    "model": "Halot Ray",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 40
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality K2 Plus",
+    "manufacturer": "Creality",
+    "model": "K2 Plus",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 600,
+      "heater_power_w": 400
+    },
+    "cost": {
+      "typical_price_eur": 999,
+      "maintenance_eur_year": 100
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 250
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality LD-002H",
+    "manufacturer": "Creality",
+    "model": "LD 002H",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 160.0
+      },
+      "build_volume_cm3": 1725.9,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality LD-002R",
+    "manufacturer": "Creality",
+    "model": "LD 002R",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 160.0
+      },
+      "build_volume_cm3": 1316.8,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality LD-006",
+    "manufacturer": "Creality",
+    "model": "LD 006",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 245.0
+      },
+      "build_volume_cm3": 5644.8,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality K1",
+    "manufacturer": "Creality K1",
+    "model": "",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 230
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality K1C",
+    "manufacturer": "Creality K1",
+    "model": "",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 549,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality K1 Max",
+    "manufacturer": "Creality K1",
+    "model": "Max",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 320
+    },
+    "cost": {
+      "typical_price_eur": 599,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 230
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Creality K1 SE",
+    "manufacturer": "Creality K1",
+    "model": "SE",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 230
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Centauri",
+    "manufacturer": "Elegoo",
+    "model": "Centauri",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Centauri Carbon",
+    "manufacturer": "Elegoo",
+    "model": "Centauri Carbon",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 65
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Jupiter",
+    "manufacturer": "Elegoo",
+    "model": "JUPITER",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 277.8,
+        "y": 156.3,
+        "z": 300.0
+      },
+      "build_volume_cm3": 13025.3,
+      "resolution_x": 5448,
+      "resolution_y": 3064,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Jupiter SE",
+    "manufacturer": "Elegoo",
+    "model": "Jupiter SE",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 120
+    },
+    "cost": {
+      "typical_price_eur": 599,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars",
+    "manufacturer": "Elegoo",
+    "model": "MARS",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1234.5,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars C",
+    "manufacturer": "Elegoo",
+    "model": "MARS C",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1234.5,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 2",
+    "manufacturer": "Elegoo",
+    "model": "MARS2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1618.0,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 2 Pro",
+    "manufacturer": "Elegoo",
+    "model": "MARS2 PRO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 160.0
+      },
+      "build_volume_cm3": 1725.9,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 3",
+    "manufacturer": "Elegoo",
+    "model": "MARS3",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 175.0
+      },
+      "build_volume_cm3": 2249.0,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 4 Max",
+    "manufacturer": "Elegoo",
+    "model": "MARS4 MAX",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 195.8,
+        "y": 122.4,
+        "z": 150.0
+      },
+      "build_volume_cm3": 3595.6,
+      "resolution_x": 5760,
+      "resolution_y": 3600,
+      "pixel_size_um": 34.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 4",
+    "manufacturer": "Elegoo",
+    "model": "Mars 4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 153.4,
+        "y": 77.8,
+        "z": 175.0
+      },
+      "build_volume_cm3": 2086.9,
+      "power_w": 35,
+      "resolution_x": 8520,
+      "resolution_y": 4320,
+      "pixel_size_um": 18.0
+    },
+    "cost": {
+      "typical_price_eur": 219,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 4 DLP",
+    "manufacturer": "Elegoo",
+    "model": "Mars 4 DLP",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 132.8,
+        "y": 74.7,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1488.0,
+      "power_w": 40,
+      "resolution_x": 2560,
+      "resolution_y": 1440,
+      "pixel_size_um": 51.9
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 4 Ultra",
+    "manufacturer": "Elegoo",
+    "model": "Mars 4 Ultra",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 153.4,
+        "y": 77.8,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1967.7,
+      "power_w": 40,
+      "resolution_x": 8520,
+      "resolution_y": 4320,
+      "pixel_size_um": 18.0
+    },
+    "cost": {
+      "typical_price_eur": 279,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 5",
+    "manufacturer": "Elegoo",
+    "model": "Mars 5",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1927.7,
+      "power_w": 35,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Mars 5 Ultra",
+    "manufacturer": "Elegoo",
+    "model": "Mars 5 Ultra",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 153.4,
+        "y": 77.8,
+        "z": 165.0
+      },
+      "build_volume_cm3": 1967.7,
+      "power_w": 45,
+      "resolution_x": 8520,
+      "resolution_y": 4320,
+      "pixel_size_um": 18.0
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn",
+    "manufacturer": "Elegoo",
+    "model": "SATURN",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 8K",
+    "manufacturer": "Elegoo",
+    "model": "SATURN 8K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 210.0
+      },
+      "build_volume_cm3": 5659.2,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn S",
+    "manufacturer": "Elegoo",
+    "model": "SATURN S",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 196.7,
+        "y": 122.9,
+        "z": 210.0
+      },
+      "build_volume_cm3": 5075.9,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 48.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 2",
+    "manufacturer": "Elegoo",
+    "model": "SATURN2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 250.0
+      },
+      "build_volume_cm3": 6737.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 3",
+    "manufacturer": "Elegoo",
+    "model": "SATURN3",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 250.0
+      },
+      "build_volume_cm3": 6724.0,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 4 Ultra 12K",
+    "manufacturer": "Elegoo",
+    "model": "SATURN4 ULTRA 12K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5917.1,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 4 Ultra 16K",
+    "manufacturer": "Elegoo",
+    "model": "SATURN4 ULTRA 16K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 211.7,
+        "y": 118.4,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5512.4,
+      "resolution_x": 15120,
+      "resolution_y": 6230,
+      "pixel_size_um": 14.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 3 Ultra",
+    "manufacturer": "Elegoo",
+    "model": "Saturn 3 Ultra",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 260.0
+      },
+      "build_volume_cm3": 6993.0,
+      "power_w": 60,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 4",
+    "manufacturer": "Elegoo",
+    "model": "Saturn 4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 122.9,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5917.1,
+      "power_w": 70,
+      "resolution_x": 11520,
+      "resolution_y": 5120,
+      "pixel_size_um": 19.0
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Saturn 4 Ultra",
+    "manufacturer": "Elegoo",
+    "model": "Saturn 4 Ultra",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 90
+    },
+    "cost": {
+      "typical_price_eur": 649,
+      "maintenance_eur_year": 100
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Neptune 4",
+    "manufacturer": "Elegoo Neptune",
+    "model": "4",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Neptune 4 Max",
+    "manufacturer": "Elegoo Neptune",
+    "model": "4 Max",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 65
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Neptune 4 Plus",
+    "manufacturer": "Elegoo Neptune",
+    "model": "4 Plus",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 320
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Neptune 4 Pro",
+    "manufacturer": "Elegoo Neptune",
+    "model": "4 Pro",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Elegoo Neptune 4 V2",
+    "manufacturer": "Elegoo Neptune",
+    "model": "4 V2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 380,
+      "heater_power_w": 260
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Emake3D Galaxy 1",
+    "manufacturer": "Emake3D",
+    "model": "GALAXY1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 400.0,
+        "y": 200.0,
+        "z": 400.0
+      },
+      "build_volume_cm3": 32000.0,
+      "resolution_x": 8000,
+      "resolution_y": 4000,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX DX1 PRO",
+    "manufacturer": "Epax",
+    "model": "DX1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1992.0,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX DX10 Pro 5K",
+    "manufacturer": "Epax",
+    "model": "DX10",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 221.4,
+        "y": 129.6,
+        "z": 120.0
+      },
+      "build_volume_cm3": 3443.2,
+      "resolution_x": 4920,
+      "resolution_y": 2880,
+      "pixel_size_um": 45.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX DX10 Pro 8K",
+    "manufacturer": "Epax",
+    "model": "DX10",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 120.0
+      },
+      "build_volume_cm3": 3233.8,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX E10 8K",
+    "manufacturer": "Epax",
+    "model": "E10",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 250.0
+      },
+      "build_volume_cm3": 6737.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX E10 5K",
+    "manufacturer": "Epax",
+    "model": "E10 5K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 221.4,
+        "y": 129.6,
+        "z": 250.0
+      },
+      "build_volume_cm3": 7173.4,
+      "resolution_x": 4920,
+      "resolution_y": 2880,
+      "pixel_size_um": 45.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX E10 Mono",
+    "manufacturer": "Epax",
+    "model": "E10 Mono",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 250.0
+      },
+      "build_volume_cm3": 5760.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX E6 Mono",
+    "manufacturer": "Epax",
+    "model": "E6 Mono",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 81.0,
+        "y": 128.0,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1607.0,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X1 4KS",
+    "manufacturer": "Epax",
+    "model": "X1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1992.0,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X1",
+    "manufacturer": "Epax",
+    "model": "X1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1275.7,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X10",
+    "manufacturer": "Epax",
+    "model": "X10",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 135.4,
+        "y": 216.6,
+        "z": 250.0
+      },
+      "build_volume_cm3": 7328.7,
+      "resolution_x": 1600,
+      "resolution_y": 2560,
+      "pixel_size_um": 84.6
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X10 4K Mono",
+    "manufacturer": "Epax",
+    "model": "X10 4KMONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 250.0
+      },
+      "build_volume_cm3": 5760.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X10 5K",
+    "manufacturer": "Epax",
+    "model": "X10 5K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 221.4,
+        "y": 129.6,
+        "z": 250.0
+      },
+      "build_volume_cm3": 7173.4,
+      "resolution_x": 4920,
+      "resolution_y": 2880,
+      "pixel_size_um": 45.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X133 6K",
+    "manufacturer": "Epax",
+    "model": "X133",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 288.0,
+        "y": 162.0,
+        "z": 400.0
+      },
+      "build_volume_cm3": 18662.4,
+      "resolution_x": 5760,
+      "resolution_y": 3240,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X133 4K Mono",
+    "manufacturer": "Epax",
+    "model": "X133 4KMONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 293.8,
+        "y": 165.2,
+        "z": 400.0
+      },
+      "build_volume_cm3": 19416.4,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 76.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X156 4K Color",
+    "manufacturer": "Epax",
+    "model": "X156 4KCOLOR",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 345.6,
+        "y": 194.4,
+        "z": 400.0
+      },
+      "build_volume_cm3": 26873.9,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 90.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "EPAX X1K 2K Mono",
+    "manufacturer": "Epax",
+    "model": "X1K 2K MONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1672.0,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Adventurer 5M",
+    "manufacturer": "FlashForge",
+    "model": "Adventurer 5M",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Adventurer 5M Pro",
+    "manufacturer": "FlashForge",
+    "model": "Adventurer 5M Pro",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 499,
+      "maintenance_eur_year": 65
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Creator 4",
+    "manufacturer": "FlashForge",
+    "model": "Creator 4",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 700,
+      "heater_power_w": 500
+    },
+    "cost": {
+      "typical_price_eur": 1999,
+      "maintenance_eur_year": 200
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 300
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Explorer MAX",
+    "manufacturer": "Flashforge",
+    "model": "EXPLORER MAX",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Focus 13.3",
+    "manufacturer": "Flashforge",
+    "model": "FOCUS 13",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 292.0,
+        "y": 165.0,
+        "z": 400.0
+      },
+      "build_volume_cm3": 19272.0,
+      "resolution_x": 3842,
+      "resolution_y": 2171,
+      "pixel_size_um": 76.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Focus 8.9",
+    "manufacturer": "Flashforge",
+    "model": "FOCUS 8",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Foto 13.3",
+    "manufacturer": "Flashforge",
+    "model": "FOTO 13",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 292.0,
+        "y": 165.0,
+        "z": 400.0
+      },
+      "build_volume_cm3": 19272.0,
+      "resolution_x": 3842,
+      "resolution_y": 2171,
+      "pixel_size_um": 76.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Foto 6.0",
+    "manufacturer": "Flashforge",
+    "model": "FOTO 6",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 130.0,
+        "y": 78.0,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1571.7,
+      "resolution_x": 2600,
+      "resolution_y": 1560,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Foto 8.9",
+    "manufacturer": "Flashforge",
+    "model": "FOTO 8",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Foto 8.9S",
+    "manufacturer": "Flashforge",
+    "model": "FOTO 8",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "FlashForge Hunter",
+    "manufacturer": "Flashforge",
+    "model": "HUNTER",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 120.0,
+        "y": 67.5,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1215.0,
+      "resolution_x": 1920,
+      "resolution_y": 1080,
+      "pixel_size_um": 62.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Formlabs Form 3+",
+    "manufacturer": "Formlabs",
+    "model": "Form 3+",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 80
+    },
+    "cost": {
+      "typical_price_eur": 3499,
+      "maintenance_eur_year": 400
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Formlabs Form 4",
+    "manufacturer": "Formlabs",
+    "model": "Form 4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 120
+    },
+    "cost": {
+      "typical_price_eur": 4499,
+      "maintenance_eur_year": 500
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Formlabs Form 4L",
+    "manufacturer": "Formlabs",
+    "model": "Form 4L",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "power_w": 160
+    },
+    "cost": {
+      "typical_price_eur": 8999,
+      "maintenance_eur_year": 300
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Kelant S400",
+    "manufacturer": "Kelant",
+    "model": "S400",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Kingroon KLP1",
+    "manufacturer": "Kingroon",
+    "model": "KLP1",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 249,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Kingroon KP3S Pro V2",
+    "manufacturer": "Kingroon",
+    "model": "KP3S Pro V2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 200,
+      "heater_power_w": 150
+    },
+    "cost": {
+      "typical_price_eur": 169,
+      "maintenance_eur_year": 30
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Longer Orange 10",
+    "manufacturer": "Longer",
+    "model": "ORANGE10",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 55.4,
+        "y": 98.6,
+        "z": 140.0
+      },
+      "build_volume_cm3": 765.6,
+      "resolution_x": 480,
+      "resolution_y": 854,
+      "pixel_size_um": 115.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Longer Orange 120",
+    "manufacturer": "Longer",
+    "model": "ORANGE120",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1234.5,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Longer Orange 30",
+    "manufacturer": "Longer",
+    "model": "ORANGE30",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 170.0
+      },
+      "build_volume_cm3": 1399.1,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Longer Orange 4K",
+    "manufacturer": "Longer",
+    "model": "ORANGE4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 121.0,
+        "y": 68.0,
+        "z": 190.0
+      },
+      "build_volume_cm3": 1563.7,
+      "resolution_x": 3840,
+      "resolution_y": 6480,
+      "pixel_size_um": 31.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Bene4",
+    "manufacturer": "Nova3D",
+    "model": "BENE4",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 70.0,
+        "y": 130.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1365.0,
+      "resolution_x": 1352,
+      "resolution_y": 2512,
+      "pixel_size_um": 51.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Bene4 Mono",
+    "manufacturer": "Nova3D",
+    "model": "BENE4 MONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 79.9,
+        "y": 130.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1557.3,
+      "resolution_x": 1566,
+      "resolution_y": 2549,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Bene5",
+    "manufacturer": "Nova3D",
+    "model": "BENE5",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 79.9,
+        "y": 130.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1557.3,
+      "resolution_x": 1566,
+      "resolution_y": 2549,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Bene6",
+    "manufacturer": "Nova3D",
+    "model": "BENE6",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 143.4,
+        "y": 89.6,
+        "z": 180.0
+      },
+      "build_volume_cm3": 2313.2,
+      "resolution_x": 4098,
+      "resolution_y": 2560,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Elfin",
+    "manufacturer": "Nova3D",
+    "model": "ELFIN",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 73.0,
+        "y": 131.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1434.5,
+      "resolution_x": 1410,
+      "resolution_y": 2531,
+      "pixel_size_um": 51.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Elfin2",
+    "manufacturer": "Nova3D",
+    "model": "ELFIN2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 70.0,
+        "y": 130.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1365.0,
+      "resolution_x": 1352,
+      "resolution_y": 2512,
+      "pixel_size_um": 51.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Elfin2 Mono SE",
+    "manufacturer": "Nova3D",
+    "model": "ELFIN2 MONO SE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 75.0,
+        "y": 130.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1462.5,
+      "resolution_x": 1470,
+      "resolution_y": 2549,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Elfin3 Mini",
+    "manufacturer": "Nova3D",
+    "model": "ELFIN3 MINI",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 120.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1224.0,
+      "resolution_x": 1079,
+      "resolution_y": 1904,
+      "pixel_size_um": 63.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Whale",
+    "manufacturer": "Nova3D",
+    "model": "WHALE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 250.0
+      },
+      "build_volume_cm3": 5760.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Whale2",
+    "manufacturer": "Nova3D",
+    "model": "WHALE2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 250.0
+      },
+      "build_volume_cm3": 5760.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Nova3D Whale3 Pro",
+    "manufacturer": "Nova3D",
+    "model": "WHALE3 PRO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 228.1,
+        "y": 128.3,
+        "z": 260.0
+      },
+      "build_volume_cm3": 7609.1,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 29.7
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom",
+    "manufacturer": "Peopoly",
+    "model": "PHENOM",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 276.5,
+        "y": 155.5,
+        "z": 400.0
+      },
+      "build_volume_cm3": 17199.3,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 72.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom Forge",
+    "manufacturer": "Peopoly",
+    "model": "PHENOM FORGE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 288.0,
+        "y": 162.0,
+        "z": 350.0
+      },
+      "build_volume_cm3": 16329.6,
+      "resolution_x": 5760,
+      "resolution_y": 3240,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom Noir",
+    "manufacturer": "Peopoly",
+    "model": "PHENOM NOIR",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 293.8,
+        "y": 165.2,
+        "z": 400.0
+      },
+      "build_volume_cm3": 19416.4,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 76.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom XXL",
+    "manufacturer": "Peopoly",
+    "model": "PHENOM XXL",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 526.1,
+        "y": 295.9,
+        "z": 550.0
+      },
+      "build_volume_cm3": 85622.7,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 137.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom XXL V2",
+    "manufacturer": "Peopoly",
+    "model": "PHENOM XXL V2",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 526.1,
+        "y": 295.9,
+        "z": 550.0
+      },
+      "build_volume_cm3": 85622.7,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 137.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Peopoly Phenom L",
+    "manufacturer": "Peopoly",
+    "model": "Phenom L",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 345.6,
+        "y": 194.4,
+        "z": 400.0
+      },
+      "build_volume_cm3": 26873.9,
+      "power_w": 120,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 90.0
+    },
+    "cost": {
+      "typical_price_eur": 1999,
+      "maintenance_eur_year": 150
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 67.7,
+        "y": 120.3,
+        "z": 200.0
+      },
+      "build_volume_cm3": 1628.7,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle 16",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE 16",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 337.9,
+        "y": 190.1,
+        "z": 400.0
+      },
+      "build_volume_cm3": 25692.7,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 88.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle 4K",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE 4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 170.0
+      },
+      "build_volume_cm3": 1399.1,
+      "resolution_x": 2160,
+      "resolution_y": 3840,
+      "pixel_size_um": 31.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle Lite",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE LITE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 170.0
+      },
+      "build_volume_cm3": 1399.1,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle XL",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE XL",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Shuffle XL Lite",
+    "manufacturer": "Phrozen",
+    "model": "SHUFFLE XL LITE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic",
+    "manufacturer": "Phrozen",
+    "model": "SONIC",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 170.0
+      },
+      "build_volume_cm3": 1399.1,
+      "resolution_x": 1080,
+      "resolution_y": 1920,
+      "pixel_size_um": 63.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic 4K",
+    "manufacturer": "Phrozen",
+    "model": "SONIC 4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 134.4,
+        "y": 75.6,
+        "z": 200.0
+      },
+      "build_volume_cm3": 2032.1,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 35.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mighty 4K",
+    "manufacturer": "Phrozen",
+    "model": "SONIC MIGHTY 4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 199.7,
+        "y": 124.8,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5482.4,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 52.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mighty Revo",
+    "manufacturer": "Phrozen",
+    "model": "SONIC MIGHTY REVO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 223.8,
+        "y": 127.0,
+        "z": 235.0
+      },
+      "build_volume_cm3": 6677.3,
+      "resolution_x": 13320,
+      "resolution_y": 5120,
+      "pixel_size_um": 16.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mini",
+    "manufacturer": "Phrozen",
+    "model": "SONIC MINI",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 130.0
+      },
+      "build_volume_cm3": 1069.9,
+      "resolution_x": 1080,
+      "resolution_y": 1920,
+      "pixel_size_um": 63.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mega 8K",
+    "manufacturer": "Phrozen",
+    "model": "Sonic Mega 8K",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 330.2,
+        "y": 185.8,
+        "z": 400.0
+      },
+      "build_volume_cm3": 24538.2,
+      "power_w": 100,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 43.0
+    },
+    "cost": {
+      "typical_price_eur": 999,
+      "maintenance_eur_year": 120
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mighty 8K",
+    "manufacturer": "Phrozen",
+    "model": "Sonic Mighty 8K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 218.9,
+        "y": 123.1,
+        "z": 235.0
+      },
+      "build_volume_cm3": 6332.9,
+      "power_w": 60,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 28.5
+    },
+    "cost": {
+      "typical_price_eur": 499,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mini 4K",
+    "manufacturer": "Phrozen",
+    "model": "Sonic Mini 4K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 134.4,
+        "y": 75.6,
+        "z": 130.0
+      },
+      "build_volume_cm3": 1320.9,
+      "power_w": 25,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 35.0
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mini 8K",
+    "manufacturer": "Phrozen",
+    "model": "Sonic Mini 8K",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 165.0,
+        "y": 71.3,
+        "z": 180.0
+      },
+      "build_volume_cm3": 2117.0,
+      "power_w": 30,
+      "resolution_x": 7500,
+      "resolution_y": 3240,
+      "pixel_size_um": 22.0
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 50
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic Mini 8K S",
+    "manufacturer": "Phrozen",
+    "model": "Sonic Mini 8K S",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 165.8,
+        "y": 71.3,
+        "z": 170.0
+      },
+      "build_volume_cm3": 2009.0,
+      "power_w": 35,
+      "resolution_x": 7536,
+      "resolution_y": 3240,
+      "pixel_size_um": 22.0
+    },
+    "cost": {
+      "typical_price_eur": 299,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Sonic XL 4K 2022",
+    "manufacturer": "Phrozen",
+    "model": "Sonic XL 4K 2022",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 80
+    },
+    "cost": {
+      "typical_price_eur": 699,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Phrozen Transform",
+    "manufacturer": "Phrozen",
+    "model": "TRANSFORM",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 291.8,
+        "y": 164.2,
+        "z": 400.0
+      },
+      "build_volume_cm3": 19163.4,
+      "resolution_x": 3840,
+      "resolution_y": 2160,
+      "pixel_size_um": 76.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa Core One",
+    "manufacturer": "Prusa",
+    "model": "Core One",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 799,
+      "maintenance_eur_year": 80
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa MK3S+",
+    "manufacturer": "Prusa",
+    "model": "MK3S+",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 240,
+      "heater_power_w": 180
+    },
+    "cost": {
+      "typical_price_eur": 799,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 215
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa MK4",
+    "manufacturer": "Prusa",
+    "model": "MK4",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 360,
+      "heater_power_w": 260
+    },
+    "cost": {
+      "typical_price_eur": 699,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 215
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa MK4S",
+    "manufacturer": "Prusa",
+    "model": "MK4S",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 360,
+      "heater_power_w": 260
+    },
+    "cost": {
+      "typical_price_eur": 849,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 215
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa Mini+",
+    "manufacturer": "Prusa",
+    "model": "Mini+",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 180,
+      "heater_power_w": 120
+    },
+    "cost": {
+      "typical_price_eur": 429,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 215
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Prusa XL",
+    "manufacturer": "Prusa",
+    "model": "XL",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 700,
+      "heater_power_w": 450
+    },
+    "cost": {
+      "typical_price_eur": 1999,
+      "maintenance_eur_year": 150
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 215
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "QIDI I-Box Mono",
+    "manufacturer": "Qidi",
+    "model": "I",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Max 3 Plus",
+    "manufacturer": "Qidi",
+    "model": "Max 3 Plus",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 700,
+      "heater_power_w": 480
+    },
+    "cost": {
+      "typical_price_eur": 999,
+      "maintenance_eur_year": 120
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Plus 4",
+    "manufacturer": "Qidi",
+    "model": "Plus 4",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 550,
+      "heater_power_w": 380
+    },
+    "cost": {
+      "typical_price_eur": 599,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Q1 Pro",
+    "manufacturer": "Qidi",
+    "model": "Q1 Pro",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 400,
+      "heater_power_w": 280
+    },
+    "cost": {
+      "typical_price_eur": 499,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Q1 Pro 2",
+    "manufacturer": "Qidi",
+    "model": "Q1 Pro 2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 450,
+      "heater_power_w": 300
+    },
+    "cost": {
+      "typical_price_eur": 549,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 300
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "QIDI S-Box",
+    "manufacturer": "Qidi",
+    "model": "S",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 135.4,
+        "y": 216.6,
+        "z": 200.0
+      },
+      "build_volume_cm3": 5863.1,
+      "resolution_x": 1600,
+      "resolution_y": 2560,
+      "pixel_size_um": 84.6
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "QIDI Shadow5.5",
+    "manufacturer": "Qidi",
+    "model": "SHADOW5",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1234.5,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "QIDI Shadow6.0 Pro",
+    "manufacturer": "Qidi",
+    "model": "SHADOW6",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 74.5,
+        "y": 132.5,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1480.9,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.8
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Smart 3",
+    "manufacturer": "Qidi",
+    "model": "Smart 3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 240
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi Tech I-Mate S",
+    "manufacturer": "Qidi",
+    "model": "Tech I-Mate S",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 399,
+      "maintenance_eur_year": 60
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi X-Max 3",
+    "manufacturer": "Qidi",
+    "model": "X-Max 3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 650,
+      "heater_power_w": 450
+    },
+    "cost": {
+      "typical_price_eur": 899,
+      "maintenance_eur_year": 110
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 240
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Qidi X-Plus 3",
+    "manufacturer": "Qidi",
+    "model": "X-Plus 3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 699,
+      "maintenance_eur_year": 90
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 65,
+      "typical_nozzle_temp": 240
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Raise3D E2",
+    "manufacturer": "Raise3D",
+    "model": "E2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 300,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 2499,
+      "maintenance_eur_year": 200
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 300
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Raise3D Pro3",
+    "manufacturer": "Raise3D",
+    "model": "Pro3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 3999,
+      "maintenance_eur_year": 300
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 300
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Sovol SV06",
+    "manufacturer": "Sovol",
+    "model": "SV06",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 270,
+      "heater_power_w": 200
+    },
+    "cost": {
+      "typical_price_eur": 199,
+      "maintenance_eur_year": 35
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Sovol SV06 Plus",
+    "manufacturer": "Sovol",
+    "model": "SV06 Plus",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 320,
+      "heater_power_w": 230
+    },
+    "cost": {
+      "typical_price_eur": 279,
+      "maintenance_eur_year": 45
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 200
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Sovol SV08",
+    "manufacturer": "Sovol",
+    "model": "SV08",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 600,
+      "heater_power_w": 400
+    },
+    "cost": {
+      "typical_price_eur": 449,
+      "maintenance_eur_year": 70
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 80,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "UVtools Prusa SL1",
+    "manufacturer": "UVtools",
+    "model": "Prusa SL1",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1234.5,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "UVtools Prusa SL1S SPEED",
+    "manufacturer": "UVtools",
+    "model": "SL1S",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 81.0,
+        "y": 128.0,
+        "z": 150.0
+      },
+      "build_volume_cm3": 1555.2,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Ultimaker 2+",
+    "manufacturer": "Ultimaker",
+    "model": "2+",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 221,
+      "heater_power_w": 150
+    },
+    "cost": {
+      "typical_price_eur": 1699,
+      "maintenance_eur_year": 150
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 210
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Ultimaker S3",
+    "manufacturer": "Ultimaker",
+    "model": "S3",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 350,
+      "heater_power_w": 250
+    },
+    "cost": {
+      "typical_price_eur": 3999,
+      "maintenance_eur_year": 350
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Ultimaker S5",
+    "manufacturer": "Ultimaker",
+    "model": "S5",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 500,
+      "heater_power_w": 350
+    },
+    "cost": {
+      "typical_price_eur": 5999,
+      "maintenance_eur_year": 500
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 60,
+      "typical_nozzle_temp": 220
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "UniFormation GKtwo",
+    "manufacturer": "UniFormation",
+    "model": "GKtwo",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 228.1,
+        "y": 128.3,
+        "z": 245.0
+      },
+      "build_volume_cm3": 7169.6,
+      "power_w": 60,
+      "resolution_x": 7680,
+      "resolution_y": 4320,
+      "pixel_size_um": 29.7
+    },
+    "cost": {
+      "typical_price_eur": 349,
+      "maintenance_eur_year": 55
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "UniFormation GKone",
+    "manufacturer": "Uniformation",
+    "model": "GKONE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 221.4,
+        "y": 129.6,
+        "z": 245.0
+      },
+      "build_volume_cm3": 7029.9,
+      "resolution_x": 4920,
+      "resolution_y": 2880,
+      "pixel_size_um": 45.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Uniz IBEE (Klipper)",
+    "manufacturer": "Uniz",
+    "model": "IBEE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5068.8,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Uniz IBEE",
+    "manufacturer": "Uniz",
+    "model": "IBEE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 220.0
+      },
+      "build_volume_cm3": 5068.8,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voron 0.2",
+    "manufacturer": "Voron",
+    "model": "0.2",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 200,
+      "heater_power_w": 120
+    },
+    "cost": {
+      "typical_price_eur": 350,
+      "maintenance_eur_year": 40
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voron 2.4",
+    "manufacturer": "Voron",
+    "model": "2.4",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 800,
+      "heater_power_w": 500
+    },
+    "cost": {
+      "typical_price_eur": 900,
+      "maintenance_eur_year": 120
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voron Trident",
+    "manufacturer": "Voron",
+    "model": "Trident",
+    "technology": "FDM",
+    "status": "current",
+    "specs": {
+      "power_w": 700,
+      "heater_power_w": 450
+    },
+    "cost": {
+      "typical_price_eur": 800,
+      "maintenance_eur_year": 100
+    },
+    "sources": [
+      "stimalo overlay (community)"
+    ],
+    "temperatures": {
+      "typical_bed_temp": 110,
+      "typical_nozzle_temp": 260
+    },
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voxelab Ceres 8.9",
+    "manufacturer": "Voxelab",
+    "model": "CERES 8",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 3840,
+      "resolution_y": 2400,
+      "pixel_size_um": 50.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voxelab Polaris 5.5",
+    "manufacturer": "Voxelab",
+    "model": "POLARIS 5",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 68.0,
+        "y": 121.0,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1275.7,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 47.3
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voxelab Proxima 6",
+    "manufacturer": "Voxelab",
+    "model": "PROXIMA 6",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1672.0,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Voxelab Proxima 6 - SVGX",
+    "manufacturer": "Voxelab",
+    "model": "PROXIMA 6 SVGX",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 130.6,
+        "y": 82.6,
+        "z": 155.0
+      },
+      "build_volume_cm3": 1672.0,
+      "resolution_x": 2560,
+      "resolution_y": 1620,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Wanhao CGR Mini Mono",
+    "manufacturer": "Wanhao",
+    "model": "CGR MINI MONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 82.6,
+        "y": 130.6,
+        "z": 200.0
+      },
+      "build_volume_cm3": 2157.4,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Wanhao CGR Mono",
+    "manufacturer": "Wanhao",
+    "model": "CGR MONO",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 200.0
+      },
+      "build_volume_cm3": 4608.0,
+      "resolution_x": 1620,
+      "resolution_y": 2560,
+      "pixel_size_um": 118.5
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Wanhao D7",
+    "manufacturer": "Wanhao",
+    "model": "D7",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 121.0,
+        "y": 68.5,
+        "z": 180.0
+      },
+      "build_volume_cm3": 1491.4,
+      "resolution_x": 2560,
+      "resolution_y": 1440,
+      "pixel_size_um": 47.2
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Wanhao D8",
+    "manufacturer": "Wanhao",
+    "model": "D8",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 192.0,
+        "y": 120.0,
+        "z": 180.0
+      },
+      "build_volume_cm3": 4147.2,
+      "resolution_x": 2560,
+      "resolution_y": 1600,
+      "pixel_size_um": 75.0
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  },
+  {
+    "full_name": "Zortrax Inkspire",
+    "manufacturer": "Zortrax",
+    "model": "INKSPIRE",
+    "technology": "SLA",
+    "status": "current",
+    "specs": {
+      "build_volume_mm": {
+        "x": 74.7,
+        "y": 132.9,
+        "z": 175.0
+      },
+      "build_volume_cm3": 1736.4,
+      "resolution_x": 1440,
+      "resolution_y": 2560,
+      "pixel_size_um": 51.9
+    },
+    "cost": {},
+    "sources": [
+      "UVtools (github.com/sn4k3/UVtools)"
+    ],
+    "contributed_by": "swordlab"
+  }
+]

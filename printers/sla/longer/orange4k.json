@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Longer",
+  "model": "ORANGE4K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 121.0,
+      "y": 68.0,
+      "z": 190.0
+    },
+    "build_volume_cm3": 1563.7,
+    "resolution_x": 3840,
+    "resolution_y": 6480,
+    "pixel_size_um": 31.5
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

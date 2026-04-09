@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Nova3D",
+  "model": "ELFIN",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 73.0,
+      "y": 131.0,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1434.5,
+    "resolution_x": 1410,
+    "resolution_y": 2531,
+    "pixel_size_um": 51.8
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

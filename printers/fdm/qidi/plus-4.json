@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Qidi",
+  "model": "Plus 4",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 550,
+    "heater_power_w": 380
+  },
+  "cost": {
+    "typical_price_eur": 599,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

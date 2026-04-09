@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Nova3D",
+  "model": "WHALE3 PRO",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 228.1,
+      "y": 128.3,
+      "z": 260.0
+    },
+    "build_volume_cm3": 7609.1,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 29.7
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

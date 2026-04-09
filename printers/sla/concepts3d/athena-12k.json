@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Concepts3D",
+  "model": "ATHENA 12K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 218.9,
+      "y": 123.1,
+      "z": 245.0
+    },
+    "build_volume_cm3": 6602.4,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 28.5
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON ULTRA",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 102.4,
+      "y": 57.6,
+      "z": 165.0
+    },
+    "build_volume_cm3": 973.2,
+    "resolution_x": 1280,
+    "resolution_y": 720,
+    "pixel_size_um": 80.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

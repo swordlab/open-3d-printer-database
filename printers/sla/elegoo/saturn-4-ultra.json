@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Saturn 4 Ultra",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 90
+  },
+  "cost": {
+    "typical_price_eur": 649,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

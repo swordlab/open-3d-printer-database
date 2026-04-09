@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "SATURN S",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 196.7,
+      "y": 122.9,
+      "z": 210.0
+    },
+    "build_volume_cm3": 5075.9,
+    "resolution_x": 4098,
+    "resolution_y": 2560,
+    "pixel_size_um": 48.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

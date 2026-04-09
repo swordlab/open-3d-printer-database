@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Mars 4 DLP",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 132.8,
+      "y": 74.7,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1488.0,
+    "power_w": 40,
+    "resolution_x": 2560,
+    "resolution_y": 1440,
+    "pixel_size_um": 51.9
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

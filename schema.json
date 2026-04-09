@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "3D Printer Entry",
+  "type": "object",
+  "required": ["manufacturer", "model", "technology"],
+  "properties": {
+    "manufacturer": { "type": "string", "description": "Brand name (e.g. Bambu Lab, Elegoo)" },
+    "model": { "type": "string", "description": "Model name (e.g. X1 Carbon, Saturn 4 Ultra)" },
+    "technology": { "type": "string", "enum": ["FDM", "SLA", "MSLA", "DLP"] },
+    "released": { "type": "string", "description": "Release year (e.g. 2024)" },
+    "status": { "type": "string", "enum": ["current", "discontinued", "upcoming"], "default": "current" },
+    "specs": {
+      "type": "object",
+      "properties": {
+        "build_volume_mm": {
+          "type": "object",
+          "properties": { "x": { "type": "number" }, "y": { "type": "number" }, "z": { "type": "number" } }
+        },
+        "nozzle_diameter_mm": { "type": ["number", "null"] },
+        "max_speed_mm_s": { "type": ["number", "null"] },
+        "power_w": { "type": ["integer", "null"], "description": "Total power consumption in watts" },
+        "heater_power_w": { "type": ["integer", "null"], "description": "Bed/chamber heater power (FDM)" },
+        "resolution_x": { "type": ["integer", "null"], "description": "Display horizontal pixels (SLA)" },
+        "resolution_y": { "type": ["integer", "null"], "description": "Display vertical pixels (SLA)" },
+        "pixel_size_um": { "type": ["number", "null"], "description": "XY pixel size in microns (SLA)" }
+      }
+    },
+    "cost": {
+      "type": "object",
+      "properties": {
+        "typical_price_eur": { "type": ["integer", "null"], "description": "Typical retail price in EUR" },
+        "typical_price_usd": { "type": ["integer", "null"], "description": "Typical retail price in USD" },
+        "maintenance_eur_year": { "type": ["integer", "null"], "description": "Annual maintenance cost in EUR" }
+      }
+    },
+    "temperatures": {
+      "type": "object",
+      "properties": {
+        "typical_bed_temp": { "type": ["integer", "null"] },
+        "typical_nozzle_temp": { "type": ["integer", "null"] }
+      }
+    },
+    "sources": { "type": "array", "items": { "type": "string" }, "description": "Data sources" },
+    "contributed_by": { "type": "string", "description": "GitHub username of contributor" }
+  }
+}

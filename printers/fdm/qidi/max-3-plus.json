@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Qidi",
+  "model": "Max 3 Plus",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 700,
+    "heater_power_w": 480
+  },
+  "cost": {
+    "typical_price_eur": 999,
+    "maintenance_eur_year": 120
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

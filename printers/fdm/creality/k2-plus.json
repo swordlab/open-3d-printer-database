@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "K2 Plus",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 600,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 999,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 250
+  },
+  "contributed_by": "swordlab"
+}

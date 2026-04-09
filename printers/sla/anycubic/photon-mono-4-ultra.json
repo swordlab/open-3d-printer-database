@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON MONO 4 ULTRA",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 153.4,
+      "y": 87.0,
+      "z": 165.0
+    },
+    "build_volume_cm3": 2203.2,
+    "resolution_x": 9024,
+    "resolution_y": 5120,
+    "pixel_size_um": 17.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

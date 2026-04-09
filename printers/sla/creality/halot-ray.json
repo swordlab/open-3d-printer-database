@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot Ray",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 40
+  },
+  "cost": {
+    "typical_price_eur": 199,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

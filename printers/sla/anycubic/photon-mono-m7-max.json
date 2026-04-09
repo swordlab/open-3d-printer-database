@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Photon Mono M7 Max",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 298.1,
+      "y": 165.6,
+      "z": 300.0
+    },
+    "build_volume_cm3": 14808.6,
+    "power_w": 80,
+    "resolution_x": 6480,
+    "resolution_y": 3600,
+    "pixel_size_um": 46.0
+  },
+  "cost": {
+    "typical_price_eur": 699,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

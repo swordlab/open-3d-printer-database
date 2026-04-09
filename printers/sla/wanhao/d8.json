@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Wanhao",
+  "model": "D8",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 192.0,
+      "y": 120.0,
+      "z": 180.0
+    },
+    "build_volume_cm3": 4147.2,
+    "resolution_x": 2560,
+    "resolution_y": 1600,
+    "pixel_size_um": 75.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

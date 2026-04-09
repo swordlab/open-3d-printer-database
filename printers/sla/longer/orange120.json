@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Longer",
+  "model": "ORANGE120",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 68.0,
+      "y": 121.0,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1234.5,
+    "resolution_x": 1440,
+    "resolution_y": 2560,
+    "pixel_size_um": 47.3
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

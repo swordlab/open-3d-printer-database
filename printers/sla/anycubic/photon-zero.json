@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "PHOTON ZERO",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 55.4,
+      "y": 98.6,
+      "z": 150.0
+    },
+    "build_volume_cm3": 819.6,
+    "resolution_x": 480,
+    "resolution_y": 854,
+    "pixel_size_um": 115.4
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

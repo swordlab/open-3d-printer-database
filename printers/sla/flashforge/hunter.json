@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Flashforge",
+  "model": "HUNTER",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 120.0,
+      "y": 67.5,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1215.0,
+    "resolution_x": 1920,
+    "resolution_y": 1080,
+    "pixel_size_um": 62.5
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

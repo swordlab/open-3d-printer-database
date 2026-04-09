@@ -1,0 +1,22 @@
+{
+  "manufacturer": "UVtools",
+  "model": "SL1S",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 81.0,
+      "y": 128.0,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1555.2,
+    "resolution_x": 1620,
+    "resolution_y": 2560,
+    "pixel_size_um": 50.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

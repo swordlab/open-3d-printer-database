@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Epax",
+  "model": "X133",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 288.0,
+      "y": 162.0,
+      "z": 400.0
+    },
+    "build_volume_cm3": 18662.4,
+    "resolution_x": 5760,
+    "resolution_y": 3240,
+    "pixel_size_um": 50.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

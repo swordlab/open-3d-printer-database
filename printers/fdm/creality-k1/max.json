@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality K1",
+  "model": "Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 450,
+    "heater_power_w": 320
+  },
+  "cost": {
+    "typical_price_eur": 599,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 230
+  },
+  "contributed_by": "swordlab"
+}

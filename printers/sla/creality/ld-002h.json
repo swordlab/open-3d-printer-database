@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "LD 002H",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 82.6,
+      "y": 130.6,
+      "z": 160.0
+    },
+    "build_volume_cm3": 1725.9,
+    "resolution_x": 1620,
+    "resolution_y": 2560,
+    "pixel_size_um": 51.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

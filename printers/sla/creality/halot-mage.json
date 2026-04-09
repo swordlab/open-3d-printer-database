@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot Mage",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 50
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

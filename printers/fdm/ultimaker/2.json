@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Ultimaker",
+  "model": "2+",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 221,
+    "heater_power_w": 150
+  },
+  "cost": {
+    "typical_price_eur": 1699,
+    "maintenance_eur_year": 150
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 210
+  },
+  "contributed_by": "swordlab"
+}

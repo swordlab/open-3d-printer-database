@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Mars 4 Ultra",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 153.4,
+      "y": 77.8,
+      "z": 165.0
+    },
+    "build_volume_cm3": 1967.7,
+    "power_w": 40,
+    "resolution_x": 8520,
+    "resolution_y": 4320,
+    "pixel_size_um": 18.0
+  },
+  "cost": {
+    "typical_price_eur": 279,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

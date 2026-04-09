@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Qidi",
+  "model": "SHADOW6",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 74.5,
+      "y": 132.5,
+      "z": 150.0
+    },
+    "build_volume_cm3": 1480.9,
+    "resolution_x": 1440,
+    "resolution_y": 2560,
+    "pixel_size_um": 51.8
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

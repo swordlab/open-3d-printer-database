@@ -1,0 +1,26 @@
+{
+  "manufacturer": "Phrozen",
+  "model": "Sonic Mini 4K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 134.4,
+      "y": 75.6,
+      "z": 130.0
+    },
+    "build_volume_cm3": 1320.9,
+    "power_w": 25,
+    "resolution_x": 3840,
+    "resolution_y": 2160,
+    "pixel_size_um": 35.0
+  },
+  "cost": {
+    "typical_price_eur": 199,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}
