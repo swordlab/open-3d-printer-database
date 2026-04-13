@@ -103,7 +103,7 @@ python3 scripts/validate.py printers/fdm/bambu-lab/x1-carbon.json
 
 ## Used by
 
-- [Stimalo](https://stimalo.swordsthings.work) — Free 3D printing cost calculator
+- [Stimalo](https://stimalo.com) — Free 3D printing cost calculator
 
 ## Stats
 
