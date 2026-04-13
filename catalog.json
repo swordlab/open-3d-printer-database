@@ -1,5 +1,17 @@
 [
   {
+    "_metadata": true,
+    "last_updated": "2026-04-09T13:56:16.026182",
+    "sources": [
+      "overlay (manual, power+price data)",
+      "UVtools (152 SLA printers, resolution+build volume)"
+    ],
+    "count": 246,
+    "with_overlay": 112,
+    "fdm_count": 89,
+    "sla_count": 157
+  },
+  {
     "source": "uvtools",
     "manufacturer": "Anet",
     "model": "N4",
@@ -16,8 +28,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -36,8 +47,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -45,8 +55,12 @@
     "model": "Kobra 2",
     "full_name": "Anycubic Kobra 2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -55,8 +69,7 @@
     "typical_price_eur": 229,
     "maintenance_eur_year": 45,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -64,8 +77,12 @@
     "model": "Kobra 2 Max",
     "full_name": "Anycubic Kobra 2 Max",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 500.0
+    },
+    "build_volume_cm3": 88200.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -74,8 +91,7 @@
     "typical_price_eur": 449,
     "maintenance_eur_year": 70,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -83,8 +99,12 @@
     "model": "Kobra 2 Pro",
     "full_name": "Anycubic Kobra 2 Pro",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -93,8 +113,7 @@
     "typical_price_eur": 279,
     "maintenance_eur_year": 50,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -102,8 +121,12 @@
     "model": "Kobra 3",
     "full_name": "Anycubic Kobra 3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "build_volume_cm3": 16250.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -112,8 +135,7 @@
     "typical_price_eur": 349,
     "maintenance_eur_year": 55,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -121,8 +143,12 @@
     "model": "Kobra 3 Combo",
     "full_name": "Anycubic Kobra 3 Combo",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 250.0,
+      "z": 260.0
+    },
+    "build_volume_cm3": 16250.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -132,8 +158,7 @@
     "maintenance_eur_year": 65,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -141,8 +166,12 @@
     "model": "Kobra 3 Max",
     "full_name": "Anycubic Kobra 3 Max",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 500.0
+    },
+    "build_volume_cm3": 88200.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -152,8 +181,7 @@
     "maintenance_eur_year": 70,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -161,8 +189,12 @@
     "model": "Kobra Max",
     "full_name": "Anycubic Kobra Max",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 400.0,
+      "y": 400.0,
+      "z": 450.0
+    },
+    "build_volume_cm3": 72000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -171,8 +203,7 @@
     "typical_price_eur": 499,
     "maintenance_eur_year": 70,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "uvtools",
@@ -191,8 +222,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -211,8 +241,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -231,8 +260,7 @@
     "pixel_size_um": 40.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -251,8 +279,7 @@
     "pixel_size_um": 46.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -271,8 +298,7 @@
     "pixel_size_um": 34.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -291,8 +317,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -311,8 +336,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -325,14 +349,13 @@
       "y": 87.0,
       "z": 165.0
     },
-    "build_volume_cm3": 2203.2,
+    "build_volume_cm3": 2202.1,
     "resolution_x": 9024,
     "resolution_y": 5120,
     "pixel_size_um": 17.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -351,8 +374,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -365,14 +387,13 @@
       "y": 122.9,
       "z": 200.0
     },
-    "build_volume_cm3": 5379.2,
+    "build_volume_cm3": 5380.6,
     "resolution_x": 11520,
     "resolution_y": 5120,
     "pixel_size_um": 19.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -391,8 +412,7 @@
     "pixel_size_um": 16.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -411,8 +431,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -431,8 +450,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -451,8 +469,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -471,8 +488,7 @@
     "pixel_size_um": 34.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -491,8 +507,7 @@
     "pixel_size_um": 16.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -505,14 +520,13 @@
       "y": 214.3,
       "z": 300.0
     },
-    "build_volume_cm3": 18365.0,
+    "build_volume_cm3": 18367.7,
     "resolution_x": 11520,
     "resolution_y": 8640,
     "pixel_size_um": 24.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -531,8 +545,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -551,8 +564,7 @@
     "pixel_size_um": 80.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -571,8 +583,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -591,8 +602,7 @@
     "pixel_size_um": 115.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -617,8 +627,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 4096,
     "resolution_y": 2560,
-    "pixel_size_um": 35.0,
-    "category": "printer"
+    "pixel_size_um": 35.0
   },
   {
     "source": "overlay",
@@ -631,7 +640,7 @@
       "y": 87.0,
       "z": 165.0
     },
-    "build_volume_cm3": 2203.2,
+    "build_volume_cm3": 2202.1,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -643,8 +652,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 9024,
     "resolution_y": 5120,
-    "pixel_size_um": 17.0,
-    "category": "printer"
+    "pixel_size_um": 17.0
   },
   {
     "source": "overlay",
@@ -657,7 +665,7 @@
       "y": 122.9,
       "z": 200.0
     },
-    "build_volume_cm3": 5379.2,
+    "build_volume_cm3": 5380.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -669,8 +677,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 11520,
     "resolution_y": 5120,
-    "pixel_size_um": 19.0,
-    "category": "printer"
+    "pixel_size_um": 19.0
   },
   {
     "source": "overlay",
@@ -695,8 +702,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 13312,
     "resolution_y": 5120,
-    "pixel_size_um": 16.8,
-    "category": "printer"
+    "pixel_size_um": 16.8
   },
   {
     "source": "overlay",
@@ -721,8 +727,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 6480,
     "resolution_y": 3600,
-    "pixel_size_um": 46.0,
-    "category": "printer"
+    "pixel_size_um": 46.0
   },
   {
     "source": "overlay",
@@ -748,8 +753,7 @@
     "_note": "stimato",
     "resolution_x": 13312,
     "resolution_y": 5120,
-    "pixel_size_um": 16.8,
-    "category": "printer"
+    "pixel_size_um": 16.8
   },
   {
     "source": "overlay",
@@ -774,8 +778,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 5760,
     "resolution_y": 3600,
-    "pixel_size_um": 34.0,
-    "category": "printer"
+    "pixel_size_um": 34.0
   },
   {
     "source": "overlay",
@@ -800,8 +803,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 4096,
     "resolution_y": 2560,
-    "pixel_size_um": 48.0,
-    "category": "printer"
+    "pixel_size_um": 48.0
   },
   {
     "source": "overlay",
@@ -809,8 +811,12 @@
     "model": "Genius Pro",
     "full_name": "Artillery Genius Pro",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -819,8 +825,7 @@
     "typical_price_eur": 249,
     "maintenance_eur_year": 40,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -828,8 +833,12 @@
     "model": "Sidewinder X2",
     "full_name": "Artillery Sidewinder X2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 400.0
+    },
+    "build_volume_cm3": 36000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -838,8 +847,7 @@
     "typical_price_eur": 299,
     "maintenance_eur_year": 45,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -847,8 +855,12 @@
     "model": "A1",
     "full_name": "Bambu Lab A1",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -857,8 +869,7 @@
     "typical_price_eur": 399,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -866,8 +877,12 @@
     "model": "A1 Combo",
     "full_name": "Bambu Lab A1 Combo",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -877,8 +892,7 @@
     "maintenance_eur_year": 65,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, include AMS Lite",
-    "category": "printer"
+    "_note": "stimato, include AMS Lite"
   },
   {
     "source": "overlay",
@@ -886,8 +900,12 @@
     "model": "A1 Mini",
     "full_name": "Bambu Lab A1 Mini",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "build_volume_cm3": 5832.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -896,8 +914,7 @@
     "typical_price_eur": 299,
     "maintenance_eur_year": 50,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -905,8 +922,12 @@
     "model": "A1 Mini Combo",
     "full_name": "Bambu Lab A1 Mini Combo",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "build_volume_cm3": 5832.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -916,8 +937,7 @@
     "maintenance_eur_year": 50,
     "typical_bed_temp": 60,
     "typical_nozzle_temp": 220,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -925,8 +945,12 @@
     "model": "A2",
     "full_name": "Bambu Lab A2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -936,8 +960,7 @@
     "maintenance_eur_year": 50,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -945,8 +968,12 @@
     "model": "A2 Combo",
     "full_name": "Bambu Lab A2 Combo",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -956,8 +983,7 @@
     "maintenance_eur_year": 55,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, include AMS Lite 4",
-    "category": "printer"
+    "_note": "stimato, include AMS Lite 4"
   },
   {
     "source": "overlay",
@@ -965,8 +991,12 @@
     "model": "H2D",
     "full_name": "Bambu Lab H2D",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -976,8 +1006,7 @@
     "maintenance_eur_year": 200,
     "typical_bed_temp": 110,
     "typical_nozzle_temp": 300,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -985,8 +1014,12 @@
     "model": "P1P",
     "full_name": "Bambu Lab P1P",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -995,8 +1028,7 @@
     "typical_price_eur": 549,
     "maintenance_eur_year": 80,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -1004,8 +1036,12 @@
     "model": "P1S",
     "full_name": "Bambu Lab P1S",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1014,8 +1050,7 @@
     "typical_price_eur": 899,
     "maintenance_eur_year": 90,
     "typical_bed_temp": 90,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -1023,8 +1058,12 @@
     "model": "P1S Combo",
     "full_name": "Bambu Lab P1S Combo",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1034,8 +1073,7 @@
     "maintenance_eur_year": 95,
     "typical_bed_temp": 90,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, include AMS",
-    "category": "printer"
+    "_note": "stimato, include AMS"
   },
   {
     "source": "overlay",
@@ -1043,8 +1081,12 @@
     "model": "X1",
     "full_name": "Bambu Lab X1",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1053,8 +1095,7 @@
     "typical_price_eur": 1099,
     "maintenance_eur_year": 100,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -1062,8 +1103,12 @@
     "model": "X1 Carbon",
     "full_name": "Bambu Lab X1 Carbon",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1072,8 +1117,7 @@
     "typical_price_eur": 1199,
     "maintenance_eur_year": 100,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -1081,8 +1125,12 @@
     "model": "X1E",
     "full_name": "Bambu Lab X1E",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1091,8 +1139,7 @@
     "typical_price_eur": 1799,
     "maintenance_eur_year": 150,
     "typical_bed_temp": 110,
-    "typical_nozzle_temp": 280,
-    "category": "printer"
+    "typical_nozzle_temp": 280
   },
   {
     "source": "uvtools",
@@ -1105,14 +1152,13 @@
       "y": 122.9,
       "z": 245.0
     },
-    "build_volume_cm3": 6589.5,
+    "build_volume_cm3": 6591.2,
     "resolution_x": 11520,
     "resolution_y": 5120,
     "pixel_size_um": 19.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1131,8 +1177,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -1140,8 +1185,12 @@
     "model": "Ender 3",
     "full_name": "Creality Ender 3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1150,8 +1199,7 @@
     "typical_price_eur": 179,
     "maintenance_eur_year": 30,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -1159,8 +1207,12 @@
     "model": "Ender 3 V3",
     "full_name": "Creality Ender 3 V3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1170,8 +1222,7 @@
     "maintenance_eur_year": 50,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, CoreXZ 600mm/s",
-    "category": "printer"
+    "_note": "stimato, CoreXZ 600mm/s"
   },
   {
     "source": "overlay",
@@ -1179,8 +1230,12 @@
     "model": "Ender 3 V3 KE",
     "full_name": "Creality Ender 3 V3 KE",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1189,8 +1244,7 @@
     "typical_price_eur": 299,
     "maintenance_eur_year": 50,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -1198,8 +1252,12 @@
     "model": "Ender 3 V3 Plus",
     "full_name": "Creality Ender 3 V3 Plus",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 330.0
+    },
+    "build_volume_cm3": 29700.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1209,8 +1267,7 @@
     "maintenance_eur_year": 60,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -1218,8 +1275,12 @@
     "model": "Ender 3 V3 SE",
     "full_name": "Creality Ender 3 V3 SE",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1228,8 +1289,7 @@
     "typical_price_eur": 199,
     "maintenance_eur_year": 40,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -1237,8 +1297,12 @@
     "model": "Ender-3 V3 Core",
     "full_name": "Creality Ender-3 V3 Core",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1248,8 +1312,7 @@
     "maintenance_eur_year": 35,
     "typical_bed_temp": 60,
     "typical_nozzle_temp": 200,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "uvtools",
@@ -1268,8 +1331,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1282,14 +1344,13 @@
       "y": 165.2,
       "z": 300.0
     },
-    "build_volume_cm3": 14562.3,
+    "build_volume_cm3": 14560.7,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 76.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1308,8 +1369,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1328,8 +1388,7 @@
     "pixel_size_um": 29.7,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1348,8 +1407,7 @@
     "pixel_size_um": 29.7,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1362,14 +1420,13 @@
       "y": 165.2,
       "z": 300.0
     },
-    "build_volume_cm3": 14562.3,
+    "build_volume_cm3": 14560.7,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 76.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1388,8 +1445,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1408,8 +1464,7 @@
     "pixel_size_um": 40.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1428,8 +1483,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1442,14 +1496,13 @@
       "y": 123.8,
       "z": 210.0
     },
-    "build_volume_cm3": 5152.9,
+    "build_volume_cm3": 5150.2,
     "resolution_x": 5760,
     "resolution_y": 3600,
     "pixel_size_um": 34.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1468,8 +1521,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1482,14 +1534,13 @@
       "y": 123.8,
       "z": 210.0
     },
-    "build_volume_cm3": 5152.9,
+    "build_volume_cm3": 5150.2,
     "resolution_x": 5760,
     "resolution_y": 3600,
     "pixel_size_um": 34.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -1507,8 +1558,7 @@
     "typical_price_eur": 249,
     "maintenance_eur_year": 45,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -1526,8 +1576,7 @@
     "typical_price_eur": 349,
     "maintenance_eur_year": 70,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -1546,8 +1595,7 @@
     "maintenance_eur_year": 55,
     "typical_bed_temp": null,
     "typical_nozzle_temp": null,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -1565,8 +1613,7 @@
     "typical_price_eur": 199,
     "maintenance_eur_year": 40,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -1574,8 +1621,12 @@
     "model": "K2 Plus",
     "full_name": "Creality K2 Plus",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 350.0
+    },
+    "build_volume_cm3": 42875.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1585,8 +1636,7 @@
     "maintenance_eur_year": 100,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 250,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "uvtools",
@@ -1605,8 +1655,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1625,8 +1674,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1645,8 +1693,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -1654,8 +1701,12 @@
     "model": "",
     "full_name": "Creality K1",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1664,8 +1715,7 @@
     "typical_price_eur": 349,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 230,
-    "category": "printer"
+    "typical_nozzle_temp": 230
   },
   {
     "source": "overlay",
@@ -1673,8 +1723,12 @@
     "model": "",
     "full_name": "Creality K1C",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1684,8 +1738,7 @@
     "maintenance_eur_year": 70,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato, carbon fiber capable",
-    "category": "printer"
+    "_note": "stimato, carbon fiber capable"
   },
   {
     "source": "overlay",
@@ -1693,8 +1746,12 @@
     "model": "Max",
     "full_name": "Creality K1 Max",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "build_volume_cm3": 27000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1703,8 +1760,7 @@
     "typical_price_eur": 599,
     "maintenance_eur_year": 80,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 230,
-    "category": "printer"
+    "typical_nozzle_temp": 230
   },
   {
     "source": "overlay",
@@ -1712,8 +1768,12 @@
     "model": "SE",
     "full_name": "Creality K1 SE",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1723,8 +1783,7 @@
     "maintenance_eur_year": 55,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 230,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -1732,8 +1791,12 @@
     "model": "Centauri",
     "full_name": "Elegoo Centauri",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1743,8 +1806,7 @@
     "maintenance_eur_year": 50,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -1752,8 +1814,12 @@
     "model": "Centauri Carbon",
     "full_name": "Elegoo Centauri Carbon",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 256.0,
+      "y": 256.0,
+      "z": 256.0
+    },
+    "build_volume_cm3": 16777.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1763,8 +1829,7 @@
     "maintenance_eur_year": 65,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato, enclosed, carbon-capable",
-    "category": "printer"
+    "_note": "stimato, enclosed, carbon-capable"
   },
   {
     "source": "uvtools",
@@ -1783,8 +1848,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -1792,8 +1856,12 @@
     "model": "Jupiter SE",
     "full_name": "Elegoo Jupiter SE",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 277.0,
+      "y": 156.0,
+      "z": 300.0
+    },
+    "build_volume_cm3": 12963.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1802,8 +1870,7 @@
     "typical_price_eur": 599,
     "maintenance_eur_year": 90,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "uvtools",
@@ -1822,8 +1889,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1842,8 +1908,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1862,8 +1927,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1882,8 +1946,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1902,8 +1965,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -1922,8 +1984,7 @@
     "pixel_size_um": 34.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -1936,7 +1997,7 @@
       "y": 77.8,
       "z": 175.0
     },
-    "build_volume_cm3": 2086.9,
+    "build_volume_cm3": 2088.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -1948,8 +2009,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 8520,
     "resolution_y": 4320,
-    "pixel_size_um": 18.0,
-    "category": "printer"
+    "pixel_size_um": 18.0
   },
   {
     "source": "overlay",
@@ -1974,8 +2034,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 2560,
     "resolution_y": 1440,
-    "pixel_size_um": 51.9,
-    "category": "printer"
+    "pixel_size_um": 51.9
   },
   {
     "source": "overlay",
@@ -1988,7 +2047,7 @@
       "y": 77.8,
       "z": 165.0
     },
-    "build_volume_cm3": 1967.7,
+    "build_volume_cm3": 1969.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2000,8 +2059,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 8520,
     "resolution_y": 4320,
-    "pixel_size_um": 18.0,
-    "category": "printer"
+    "pixel_size_um": 18.0
   },
   {
     "source": "overlay",
@@ -2026,8 +2084,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 4098,
     "resolution_y": 2560,
-    "pixel_size_um": 35.0,
-    "category": "printer"
+    "pixel_size_um": 35.0
   },
   {
     "source": "overlay",
@@ -2040,7 +2097,7 @@
       "y": 77.8,
       "z": 165.0
     },
-    "build_volume_cm3": 1967.7,
+    "build_volume_cm3": 1969.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2052,8 +2109,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 8520,
     "resolution_y": 4320,
-    "pixel_size_um": 18.0,
-    "category": "printer"
+    "pixel_size_um": 18.0
   },
   {
     "source": "uvtools",
@@ -2072,8 +2128,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2092,8 +2147,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2112,8 +2166,7 @@
     "pixel_size_um": 48.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2132,8 +2185,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2146,14 +2198,13 @@
       "y": 122.9,
       "z": 250.0
     },
-    "build_volume_cm3": 6724.0,
+    "build_volume_cm3": 6725.7,
     "resolution_x": 11520,
     "resolution_y": 5120,
     "pixel_size_um": 19.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2166,14 +2217,13 @@
       "y": 122.9,
       "z": 220.0
     },
-    "build_volume_cm3": 5917.1,
+    "build_volume_cm3": 5918.6,
     "resolution_x": 11520,
     "resolution_y": 5120,
     "pixel_size_um": 19.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2186,14 +2236,13 @@
       "y": 118.4,
       "z": 220.0
     },
-    "build_volume_cm3": 5512.4,
+    "build_volume_cm3": 5514.4,
     "resolution_x": 15120,
     "resolution_y": 6230,
     "pixel_size_um": 14.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -2206,7 +2255,7 @@
       "y": 122.9,
       "z": 260.0
     },
-    "build_volume_cm3": 6993.0,
+    "build_volume_cm3": 6994.7,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2218,8 +2267,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 11520,
     "resolution_y": 5120,
-    "pixel_size_um": 19.0,
-    "category": "printer"
+    "pixel_size_um": 19.0
   },
   {
     "source": "overlay",
@@ -2232,7 +2280,7 @@
       "y": 122.9,
       "z": 220.0
     },
-    "build_volume_cm3": 5917.1,
+    "build_volume_cm3": 5918.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2245,8 +2293,7 @@
     "_note": "stimato",
     "resolution_x": 11520,
     "resolution_y": 5120,
-    "pixel_size_um": 19.0,
-    "category": "printer"
+    "pixel_size_um": 19.0
   },
   {
     "source": "overlay",
@@ -2264,8 +2311,7 @@
     "typical_price_eur": 649,
     "maintenance_eur_year": 100,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -2273,8 +2319,12 @@
     "model": "4",
     "full_name": "Elegoo Neptune 4",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 265.0
+    },
+    "build_volume_cm3": 13415.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2283,8 +2333,7 @@
     "typical_price_eur": 199,
     "maintenance_eur_year": 45,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -2292,8 +2341,12 @@
     "model": "4 Max",
     "full_name": "Elegoo Neptune 4 Max",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 420.0,
+      "y": 420.0,
+      "z": 480.0
+    },
+    "build_volume_cm3": 84672.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2302,8 +2355,7 @@
     "typical_price_eur": 399,
     "maintenance_eur_year": 65,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 260,
-    "category": "printer"
+    "typical_nozzle_temp": 260
   },
   {
     "source": "overlay",
@@ -2311,8 +2363,12 @@
     "model": "4 Plus",
     "full_name": "Elegoo Neptune 4 Plus",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 320.0,
+      "y": 320.0,
+      "z": 385.0
+    },
+    "build_volume_cm3": 39424.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2321,8 +2377,7 @@
     "typical_price_eur": 349,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 260,
-    "category": "printer"
+    "typical_nozzle_temp": 260
   },
   {
     "source": "overlay",
@@ -2330,8 +2385,12 @@
     "model": "4 Pro",
     "full_name": "Elegoo Neptune 4 Pro",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 265.0
+    },
+    "build_volume_cm3": 13415.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2340,8 +2399,7 @@
     "typical_price_eur": 299,
     "maintenance_eur_year": 55,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 260,
-    "category": "printer"
+    "typical_nozzle_temp": 260
   },
   {
     "source": "overlay",
@@ -2349,8 +2407,12 @@
     "model": "4 V2",
     "full_name": "Elegoo Neptune 4 V2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 225.0,
+      "y": 225.0,
+      "z": 265.0
+    },
+    "build_volume_cm3": 13415.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2360,8 +2422,7 @@
     "maintenance_eur_year": 45,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, 2026 refresh",
-    "category": "printer"
+    "_note": "stimato, 2026 refresh"
   },
   {
     "source": "uvtools",
@@ -2380,8 +2441,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2400,8 +2460,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2420,8 +2479,7 @@
     "pixel_size_um": 45.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2440,8 +2498,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2460,8 +2517,7 @@
     "pixel_size_um": 28.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2480,8 +2536,7 @@
     "pixel_size_um": 45.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2500,8 +2555,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2520,8 +2574,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2540,8 +2593,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2560,8 +2612,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2574,14 +2625,13 @@
       "y": 216.6,
       "z": 250.0
     },
-    "build_volume_cm3": 7328.7,
+    "build_volume_cm3": 7331.9,
     "resolution_x": 1600,
     "resolution_y": 2560,
     "pixel_size_um": 84.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2600,8 +2650,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2620,8 +2669,7 @@
     "pixel_size_um": 45.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2640,8 +2688,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2654,14 +2701,13 @@
       "y": 165.2,
       "z": 400.0
     },
-    "build_volume_cm3": 19416.4,
+    "build_volume_cm3": 19414.3,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 76.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2680,8 +2726,7 @@
     "pixel_size_um": 90.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2700,8 +2745,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -2709,8 +2753,12 @@
     "model": "Adventurer 5M",
     "full_name": "FlashForge Adventurer 5M",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 220.0
+    },
+    "build_volume_cm3": 10648.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2719,8 +2767,7 @@
     "typical_price_eur": 399,
     "maintenance_eur_year": 55,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -2728,8 +2775,12 @@
     "model": "Adventurer 5M Pro",
     "full_name": "FlashForge Adventurer 5M Pro",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 220.0
+    },
+    "build_volume_cm3": 10648.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2738,8 +2789,7 @@
     "typical_price_eur": 499,
     "maintenance_eur_year": 65,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 260,
-    "category": "printer"
+    "typical_nozzle_temp": 260
   },
   {
     "source": "overlay",
@@ -2747,8 +2797,12 @@
     "model": "Creator 4",
     "full_name": "FlashForge Creator 4",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 400.0,
+      "y": 350.0,
+      "z": 500.0
+    },
+    "build_volume_cm3": 70000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -2757,8 +2811,7 @@
     "typical_price_eur": 1999,
     "maintenance_eur_year": 200,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 300,
-    "category": "printer"
+    "typical_nozzle_temp": 300
   },
   {
     "source": "uvtools",
@@ -2777,8 +2830,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2797,8 +2849,7 @@
     "pixel_size_um": 76.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2817,8 +2868,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2837,8 +2887,7 @@
     "pixel_size_um": 76.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2857,8 +2906,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2877,8 +2925,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2897,8 +2944,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -2917,8 +2963,7 @@
     "pixel_size_um": 62.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -2936,8 +2981,7 @@
     "typical_price_eur": 3499,
     "maintenance_eur_year": 400,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -2955,8 +2999,7 @@
     "typical_price_eur": 4499,
     "maintenance_eur_year": 500,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "overlay",
@@ -2975,8 +3018,7 @@
     "maintenance_eur_year": 300,
     "typical_bed_temp": null,
     "typical_nozzle_temp": null,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "uvtools",
@@ -2995,8 +3037,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -3004,8 +3045,12 @@
     "model": "KLP1",
     "full_name": "Kingroon KLP1",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 210.0,
+      "y": 210.0,
+      "z": 210.0
+    },
+    "build_volume_cm3": 9261.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3015,8 +3060,7 @@
     "maintenance_eur_year": 40,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, Klipper-based",
-    "category": "printer"
+    "_note": "stimato, Klipper-based"
   },
   {
     "source": "overlay",
@@ -3024,8 +3068,12 @@
     "model": "KP3S Pro V2",
     "full_name": "Kingroon KP3S Pro V2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 200.0,
+      "y": 200.0,
+      "z": 200.0
+    },
+    "build_volume_cm3": 8000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3034,8 +3082,7 @@
     "typical_price_eur": 169,
     "maintenance_eur_year": 30,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "uvtools",
@@ -3054,8 +3101,7 @@
     "pixel_size_um": 115.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3074,8 +3120,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3094,8 +3139,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3114,8 +3158,7 @@
     "pixel_size_um": 31.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3134,8 +3177,7 @@
     "pixel_size_um": 51.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3154,8 +3196,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3174,8 +3215,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3194,8 +3234,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3214,8 +3253,7 @@
     "pixel_size_um": 51.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3234,8 +3272,7 @@
     "pixel_size_um": 51.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3254,8 +3291,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3274,8 +3310,7 @@
     "pixel_size_um": 63.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3294,8 +3329,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3314,8 +3348,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3334,8 +3367,7 @@
     "pixel_size_um": 29.7,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3354,8 +3386,7 @@
     "pixel_size_um": 72.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3374,8 +3405,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3388,14 +3418,13 @@
       "y": 165.2,
       "z": 400.0
     },
-    "build_volume_cm3": 19416.4,
+    "build_volume_cm3": 19414.3,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 76.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3408,14 +3437,13 @@
       "y": 295.9,
       "z": 550.0
     },
-    "build_volume_cm3": 85622.7,
+    "build_volume_cm3": 85620.1,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 137.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3428,14 +3456,13 @@
       "y": 295.9,
       "z": 550.0
     },
-    "build_volume_cm3": 85622.7,
+    "build_volume_cm3": 85620.1,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 137.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -3461,8 +3488,7 @@
     "_note": "stimato",
     "resolution_x": 3840,
     "resolution_y": 2160,
-    "pixel_size_um": 90.0,
-    "category": "printer"
+    "pixel_size_um": 90.0
   },
   {
     "source": "uvtools",
@@ -3481,8 +3507,7 @@
     "pixel_size_um": 47.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3495,14 +3520,13 @@
       "y": 190.1,
       "z": 400.0
     },
-    "build_volume_cm3": 25692.7,
+    "build_volume_cm3": 25693.9,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 88.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3521,8 +3545,7 @@
     "pixel_size_um": 31.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3541,8 +3564,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3561,8 +3583,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3581,8 +3602,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3601,8 +3621,7 @@
     "pixel_size_um": 63.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3621,8 +3640,7 @@
     "pixel_size_um": 35.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3641,8 +3659,7 @@
     "pixel_size_um": 52.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3655,14 +3672,13 @@
       "y": 127.0,
       "z": 235.0
     },
-    "build_volume_cm3": 6677.3,
+    "build_volume_cm3": 6679.3,
     "resolution_x": 13320,
     "resolution_y": 5120,
     "pixel_size_um": 16.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -3681,8 +3697,7 @@
     "pixel_size_um": 63.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -3695,7 +3710,7 @@
       "y": 185.8,
       "z": 400.0
     },
-    "build_volume_cm3": 24538.2,
+    "build_volume_cm3": 24540.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3707,8 +3722,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 7680,
     "resolution_y": 4320,
-    "pixel_size_um": 43.0,
-    "category": "printer"
+    "pixel_size_um": 43.0
   },
   {
     "source": "overlay",
@@ -3733,8 +3747,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 7680,
     "resolution_y": 4320,
-    "pixel_size_um": 28.5,
-    "category": "printer"
+    "pixel_size_um": 28.5
   },
   {
     "source": "overlay",
@@ -3759,8 +3772,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 3840,
     "resolution_y": 2160,
-    "pixel_size_um": 35.0,
-    "category": "printer"
+    "pixel_size_um": 35.0
   },
   {
     "source": "overlay",
@@ -3785,8 +3797,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 7500,
     "resolution_y": 3240,
-    "pixel_size_um": 22.0,
-    "category": "printer"
+    "pixel_size_um": 22.0
   },
   {
     "source": "overlay",
@@ -3811,8 +3822,7 @@
     "typical_nozzle_temp": null,
     "resolution_x": 7536,
     "resolution_y": 3240,
-    "pixel_size_um": 22.0,
-    "category": "printer"
+    "pixel_size_um": 22.0
   },
   {
     "source": "overlay",
@@ -3820,8 +3830,12 @@
     "model": "Sonic XL 4K 2022",
     "full_name": "Phrozen Sonic XL 4K 2022",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 200.0,
+      "y": 125.0,
+      "z": 200.0
+    },
+    "build_volume_cm3": 5000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3830,8 +3844,7 @@
     "typical_price_eur": 699,
     "maintenance_eur_year": 80,
     "typical_bed_temp": null,
-    "typical_nozzle_temp": null,
-    "category": "printer"
+    "typical_nozzle_temp": null
   },
   {
     "source": "uvtools",
@@ -3844,14 +3857,13 @@
       "y": 164.2,
       "z": 400.0
     },
-    "build_volume_cm3": 19163.4,
+    "build_volume_cm3": 19165.4,
     "resolution_x": 3840,
     "resolution_y": 2160,
     "pixel_size_um": 76.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -3859,8 +3871,12 @@
     "model": "Core One",
     "full_name": "Prusa Core One",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 220.0,
+      "z": 270.0
+    },
+    "build_volume_cm3": 14850.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3870,8 +3886,7 @@
     "maintenance_eur_year": 80,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato, enclosed CoreXY",
-    "category": "printer"
+    "_note": "stimato, enclosed CoreXY"
   },
   {
     "source": "overlay",
@@ -3879,8 +3894,12 @@
     "model": "MK3S+",
     "full_name": "Prusa MK3S+",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 210.0
+    },
+    "build_volume_cm3": 11025.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3889,8 +3908,7 @@
     "typical_price_eur": 799,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 215,
-    "category": "printer"
+    "typical_nozzle_temp": 215
   },
   {
     "source": "overlay",
@@ -3898,8 +3916,12 @@
     "model": "MK4",
     "full_name": "Prusa MK4",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 220.0
+    },
+    "build_volume_cm3": 11550.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3908,8 +3930,7 @@
     "typical_price_eur": 699,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 215,
-    "category": "printer"
+    "typical_nozzle_temp": 215
   },
   {
     "source": "overlay",
@@ -3917,8 +3938,12 @@
     "model": "MK4S",
     "full_name": "Prusa MK4S",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 250.0,
+      "y": 210.0,
+      "z": 220.0
+    },
+    "build_volume_cm3": 11550.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3927,8 +3952,7 @@
     "typical_price_eur": 849,
     "maintenance_eur_year": 60,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 215,
-    "category": "printer"
+    "typical_nozzle_temp": 215
   },
   {
     "source": "overlay",
@@ -3936,8 +3960,12 @@
     "model": "Mini+",
     "full_name": "Prusa Mini+",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "build_volume_cm3": 5832.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3946,8 +3974,7 @@
     "typical_price_eur": 429,
     "maintenance_eur_year": 40,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 215,
-    "category": "printer"
+    "typical_nozzle_temp": 215
   },
   {
     "source": "overlay",
@@ -3955,8 +3982,12 @@
     "model": "XL",
     "full_name": "Prusa XL",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 360.0,
+      "y": 360.0,
+      "z": 360.0
+    },
+    "build_volume_cm3": 46656.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -3965,8 +3996,7 @@
     "typical_price_eur": 1999,
     "maintenance_eur_year": 150,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 215,
-    "category": "printer"
+    "typical_nozzle_temp": 215
   },
   {
     "source": "uvtools",
@@ -3985,8 +4015,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -3994,8 +4023,12 @@
     "model": "Max 3 Plus",
     "full_name": "Qidi Max 3 Plus",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 335.0,
+      "y": 335.0,
+      "z": 365.0
+    },
+    "build_volume_cm3": 40962.1,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4005,8 +4038,7 @@
     "maintenance_eur_year": 120,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -4014,8 +4046,12 @@
     "model": "Plus 4",
     "full_name": "Qidi Plus 4",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 380.0
+    },
+    "build_volume_cm3": 46550.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4025,8 +4061,7 @@
     "maintenance_eur_year": 90,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -4034,8 +4069,12 @@
     "model": "Q1 Pro",
     "full_name": "Qidi Q1 Pro",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 245.0,
+      "y": 245.0,
+      "z": 245.0
+    },
+    "build_volume_cm3": 14706.1,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4044,8 +4083,7 @@
     "typical_price_eur": 499,
     "maintenance_eur_year": 70,
     "typical_bed_temp": 80,
-    "typical_nozzle_temp": 260,
-    "category": "printer"
+    "typical_nozzle_temp": 260
   },
   {
     "source": "overlay",
@@ -4053,8 +4091,12 @@
     "model": "Q1 Pro 2",
     "full_name": "Qidi Q1 Pro 2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 245.0,
+      "y": 245.0,
+      "z": 245.0
+    },
+    "build_volume_cm3": 14706.1,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4064,8 +4106,7 @@
     "maintenance_eur_year": 60,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 300,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "uvtools",
@@ -4078,14 +4119,13 @@
       "y": 216.6,
       "z": 200.0
     },
-    "build_volume_cm3": 5863.1,
+    "build_volume_cm3": 5865.5,
     "resolution_x": 1600,
     "resolution_y": 2560,
     "pixel_size_um": 84.6,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4104,8 +4144,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4124,8 +4163,7 @@
     "pixel_size_um": 51.8,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -4133,8 +4171,12 @@
     "model": "Smart 3",
     "full_name": "Qidi Smart 3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 180.0,
+      "y": 180.0,
+      "z": 180.0
+    },
+    "build_volume_cm3": 5832.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4144,8 +4186,7 @@
     "maintenance_eur_year": 55,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 240,
-    "_note": "stimato, entry-level enclosed",
-    "category": "printer"
+    "_note": "stimato, entry-level enclosed"
   },
   {
     "source": "overlay",
@@ -4153,8 +4194,12 @@
     "model": "Tech I-Mate S",
     "full_name": "Qidi Tech I-Mate S",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 260.0,
+      "y": 260.0,
+      "z": 260.0
+    },
+    "build_volume_cm3": 17576.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4164,8 +4209,7 @@
     "maintenance_eur_year": 60,
     "typical_bed_temp": 65,
     "typical_nozzle_temp": 220,
-    "_note": "stimato",
-    "category": "printer"
+    "_note": "stimato"
   },
   {
     "source": "overlay",
@@ -4173,8 +4217,12 @@
     "model": "X-Max 3",
     "full_name": "Qidi X-Max 3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 325.0,
+      "y": 325.0,
+      "z": 315.0
+    },
+    "build_volume_cm3": 33271.9,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4183,8 +4231,7 @@
     "typical_price_eur": 899,
     "maintenance_eur_year": 110,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 240,
-    "category": "printer"
+    "typical_nozzle_temp": 240
   },
   {
     "source": "overlay",
@@ -4192,8 +4239,12 @@
     "model": "X-Plus 3",
     "full_name": "Qidi X-Plus 3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 280.0,
+      "y": 280.0,
+      "z": 270.0
+    },
+    "build_volume_cm3": 21168.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4202,8 +4253,7 @@
     "typical_price_eur": 699,
     "maintenance_eur_year": 90,
     "typical_bed_temp": 65,
-    "typical_nozzle_temp": 240,
-    "category": "printer"
+    "typical_nozzle_temp": 240
   },
   {
     "source": "overlay",
@@ -4211,8 +4261,12 @@
     "model": "E2",
     "full_name": "Raise3D E2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 330.0,
+      "y": 240.0,
+      "z": 240.0
+    },
+    "build_volume_cm3": 19008.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4221,8 +4275,7 @@
     "typical_price_eur": 2499,
     "maintenance_eur_year": 200,
     "typical_bed_temp": 110,
-    "typical_nozzle_temp": 300,
-    "category": "printer"
+    "typical_nozzle_temp": 300
   },
   {
     "source": "overlay",
@@ -4230,8 +4283,12 @@
     "model": "Pro3",
     "full_name": "Raise3D Pro3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 300.0
+    },
+    "build_volume_cm3": 27000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4240,8 +4297,7 @@
     "typical_price_eur": 3999,
     "maintenance_eur_year": 300,
     "typical_bed_temp": 110,
-    "typical_nozzle_temp": 300,
-    "category": "printer"
+    "typical_nozzle_temp": 300
   },
   {
     "source": "overlay",
@@ -4249,8 +4305,12 @@
     "model": "SV06",
     "full_name": "Sovol SV06",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 220.0,
+      "y": 220.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 12100.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4259,8 +4319,7 @@
     "typical_price_eur": 199,
     "maintenance_eur_year": 35,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -4268,8 +4327,12 @@
     "model": "SV06 Plus",
     "full_name": "Sovol SV06 Plus",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 340.0
+    },
+    "build_volume_cm3": 30600.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4278,8 +4341,7 @@
     "typical_price_eur": 279,
     "maintenance_eur_year": 45,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 200,
-    "category": "printer"
+    "typical_nozzle_temp": 200
   },
   {
     "source": "overlay",
@@ -4287,8 +4349,12 @@
     "model": "SV08",
     "full_name": "Sovol SV08",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 400.0
+    },
+    "build_volume_cm3": 49000.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4298,8 +4364,7 @@
     "maintenance_eur_year": 70,
     "typical_bed_temp": 80,
     "typical_nozzle_temp": 260,
-    "_note": "stimato, Voron-based",
-    "category": "printer"
+    "_note": "stimato, Voron-based"
   },
   {
     "source": "uvtools",
@@ -4318,8 +4383,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4338,8 +4402,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -4347,8 +4410,12 @@
     "model": "2+",
     "full_name": "Ultimaker 2+",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 223.0,
+      "y": 223.0,
+      "z": 205.0
+    },
+    "build_volume_cm3": 10194.4,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4357,8 +4424,7 @@
     "typical_price_eur": 1699,
     "maintenance_eur_year": 150,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 210,
-    "category": "printer"
+    "typical_nozzle_temp": 210
   },
   {
     "source": "overlay",
@@ -4366,8 +4432,12 @@
     "model": "S3",
     "full_name": "Ultimaker S3",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 230.0,
+      "y": 190.0,
+      "z": 200.0
+    },
+    "build_volume_cm3": 8740.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4376,8 +4446,7 @@
     "typical_price_eur": 3999,
     "maintenance_eur_year": 350,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -4385,8 +4454,12 @@
     "model": "S5",
     "full_name": "Ultimaker S5",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 330.0,
+      "y": 240.0,
+      "z": 300.0
+    },
+    "build_volume_cm3": 23760.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4395,8 +4468,7 @@
     "typical_price_eur": 5999,
     "maintenance_eur_year": 500,
     "typical_bed_temp": 60,
-    "typical_nozzle_temp": 220,
-    "category": "printer"
+    "typical_nozzle_temp": 220
   },
   {
     "source": "overlay",
@@ -4422,8 +4494,7 @@
     "_note": "stimato",
     "resolution_x": 7680,
     "resolution_y": 4320,
-    "pixel_size_um": 29.7,
-    "category": "printer"
+    "pixel_size_um": 29.7
   },
   {
     "source": "uvtools",
@@ -4442,8 +4513,7 @@
     "pixel_size_um": 45.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4462,8 +4532,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4482,8 +4551,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "overlay",
@@ -4491,8 +4559,12 @@
     "model": "0.2",
     "full_name": "Voron 0.2",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 120.0,
+      "y": 120.0,
+      "z": 120.0
+    },
+    "build_volume_cm3": 1728.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4502,17 +4574,20 @@
     "maintenance_eur_year": 40,
     "typical_bed_temp": 110,
     "typical_nozzle_temp": 260,
-    "_note": "kit DIY, prezzo stimato componenti",
-    "category": "printer"
+    "_note": "kit DIY, prezzo stimato componenti"
   },
   {
     "source": "overlay",
     "manufacturer": "Voron",
-    "model": "2.4",
-    "full_name": "Voron 2.4",
+    "model": "2.4 350",
+    "full_name": "Voron 2.4 350",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 350.0
+    },
+    "build_volume_cm3": 42875.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4522,17 +4597,20 @@
     "maintenance_eur_year": 120,
     "typical_bed_temp": 110,
     "typical_nozzle_temp": 260,
-    "_note": "kit DIY, prezzo stimato componenti",
-    "category": "printer"
+    "_note": "kit DIY, prezzo stimato componenti"
   },
   {
     "source": "overlay",
     "manufacturer": "Voron",
-    "model": "Trident",
-    "full_name": "Voron Trident",
+    "model": "Trident 300",
+    "full_name": "Voron Trident 300",
     "technology": "FDM",
-    "build_volume_mm": null,
-    "build_volume_cm3": null,
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 22500.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
     "bed_type": null,
@@ -4542,8 +4620,7 @@
     "maintenance_eur_year": 100,
     "typical_bed_temp": 110,
     "typical_nozzle_temp": 260,
-    "_note": "kit DIY, prezzo stimato componenti",
-    "category": "printer"
+    "_note": "kit DIY, prezzo stimato componenti"
   },
   {
     "source": "uvtools",
@@ -4562,8 +4639,7 @@
     "pixel_size_um": 50.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4582,8 +4658,7 @@
     "pixel_size_um": 47.3,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4602,8 +4677,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4622,8 +4696,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4642,8 +4715,7 @@
     "pixel_size_um": 51.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4662,8 +4734,7 @@
     "pixel_size_um": 118.5,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4682,8 +4753,7 @@
     "pixel_size_um": 47.2,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4702,8 +4772,7 @@
     "pixel_size_um": 75.0,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
     "source": "uvtools",
@@ -4722,857 +4791,314 @@
     "pixel_size_um": 51.9,
     "nozzle_diameter_mm": null,
     "max_speed_mm_s": null,
-    "bed_type": null,
-    "category": "printer"
+    "bed_type": null
   },
   {
-    "full_name": "3DJake ecoPLA",
-    "brand": "3DJake",
-    "product": "ecoPLA",
-    "type": "PLA",
+    "source": "overlay",
+    "manufacturer": "VzBot",
+    "model": "235",
+    "full_name": "VzBot 235",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 17
+    "build_volume_mm": {
+      "x": 235,
+      "y": 235,
+      "z": 220
+    },
+    "build_volume_cm3": 12149.5,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "bed_type": "CoreXY AWD",
+    "power_w": 400,
+    "heater_power_w": 300,
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 80,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 250
   },
   {
-    "full_name": "3DJake PETG",
-    "brand": "3DJake",
-    "product": "PETG",
-    "type": "PETG",
+    "source": "overlay",
+    "manufacturer": "VzBot",
+    "model": "330",
+    "full_name": "VzBot 330",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 20
+    "build_volume_mm": {
+      "x": 330,
+      "y": 330,
+      "z": 280
+    },
+    "build_volume_cm3": 30492,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "bed_type": "CoreXY AWD",
+    "power_w": 500,
+    "heater_power_w": 380,
+    "typical_price_eur": 1200,
+    "maintenance_eur_year": 100,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 250
   },
   {
-    "full_name": "Anycubic ABS-Like Resin Pro 2",
-    "brand": "Anycubic",
-    "product": "ABS-Like Resin Pro 2",
-    "type": "abs-like",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 32
-  },
-  {
-    "full_name": "Anycubic DLP Craftsman Resin",
-    "brand": "Anycubic",
-    "product": "DLP Craftsman Resin",
-    "type": "engineering",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 40
-  },
-  {
-    "full_name": "Anycubic High Clear Resin",
-    "brand": "Anycubic",
-    "product": "High Clear Resin",
-    "type": "clear",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "Anycubic Standard Resin",
-    "brand": "Anycubic",
-    "product": "Standard Resin",
-    "type": "standard",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "Anycubic Water Washable Resin",
-    "brand": "Anycubic",
-    "product": "Water Washable Resin",
-    "type": "water-washable",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 30
-  },
-  {
-    "full_name": "Bambu Lab ABS",
-    "brand": "Bambu Lab",
-    "product": "ABS",
-    "type": "ABS",
+    "source": "overlay",
+    "manufacturer": "Rat Rig",
+    "model": "V-Minion",
+    "full_name": "Rat Rig V-Minion",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 22
+    "build_volume_mm": {
+      "x": 180,
+      "y": 180,
+      "z": 180
+    },
+    "build_volume_cm3": 5832,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 200,
+    "bed_type": "Cartesian",
+    "power_w": 200,
+    "heater_power_w": 180,
+    "typical_price_eur": 450,
+    "maintenance_eur_year": 40,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 250
   },
   {
-    "full_name": "Bambu Lab ASA",
-    "brand": "Bambu Lab",
-    "product": "ASA",
-    "type": "ASA",
+    "source": "overlay",
+    "manufacturer": "Rat Rig",
+    "model": "V-Core 3.1 300",
+    "full_name": "Rat Rig V-Core 3.1 300",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.07,
-    "typical_price_eur_kg": 24
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "build_volume_cm3": 27000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 300,
+    "bed_type": "CoreXY",
+    "power_w": 450,
+    "heater_power_w": 350,
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 80,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PA6-CF",
-    "brand": "Bambu Lab",
-    "product": "PA6-CF",
-    "type": "Nylon-CF",
+    "source": "overlay",
+    "manufacturer": "Rat Rig",
+    "model": "V-Core 4 300",
+    "full_name": "Rat Rig V-Core 4 300",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 55
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "build_volume_cm3": 27000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 800,
+    "bed_type": "CoreXY",
+    "power_w": 500,
+    "heater_power_w": 380,
+    "typical_price_eur": 1100,
+    "maintenance_eur_year": 90,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PAHT-CF",
-    "brand": "Bambu Lab",
-    "product": "PAHT-CF",
-    "type": "Nylon-CF",
+    "source": "overlay",
+    "manufacturer": "Rat Rig",
+    "model": "V-Core 4 400",
+    "full_name": "Rat Rig V-Core 4 400",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.18,
-    "typical_price_eur_kg": 65
+    "build_volume_mm": {
+      "x": 400,
+      "y": 400,
+      "z": 400
+    },
+    "build_volume_cm3": 64000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 800,
+    "bed_type": "CoreXY",
+    "power_w": 600,
+    "heater_power_w": 480,
+    "typical_price_eur": 1400,
+    "maintenance_eur_year": 110,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PETG Basic",
-    "brand": "Bambu Lab",
-    "product": "PETG Basic",
-    "type": "PETG",
+    "source": "overlay",
+    "manufacturer": "Rat Rig",
+    "model": "V-Core 4 500",
+    "full_name": "Rat Rig V-Core 4 500",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 20
+    "build_volume_mm": {
+      "x": 500,
+      "y": 500,
+      "z": 500
+    },
+    "build_volume_cm3": 125000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 800,
+    "bed_type": "CoreXY",
+    "power_w": 750,
+    "heater_power_w": 600,
+    "typical_price_eur": 1800,
+    "maintenance_eur_year": 130,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PLA Basic",
-    "brand": "Bambu Lab",
-    "product": "PLA Basic",
-    "type": "PLA",
+    "source": "overlay",
+    "manufacturer": "HevORT",
+    "model": "315",
+    "full_name": "HevORT 315",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 18
+    "build_volume_mm": {
+      "x": 315,
+      "y": 315,
+      "z": 315
+    },
+    "build_volume_cm3": 31256,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "bed_type": "CoreXY",
+    "power_w": 500,
+    "heater_power_w": 400,
+    "typical_price_eur": 1500,
+    "maintenance_eur_year": 100,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PLA Matte",
-    "brand": "Bambu Lab",
-    "product": "PLA Matte",
-    "type": "PLA",
+    "source": "overlay",
+    "manufacturer": "BLV",
+    "model": "mgn Cube 300",
+    "full_name": "BLV mgn Cube 300",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 22
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 365
+    },
+    "build_volume_cm3": 32850,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 300,
+    "bed_type": "CoreXY",
+    "power_w": 400,
+    "heater_power_w": 300,
+    "typical_price_eur": 800,
+    "maintenance_eur_year": 70,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "Bambu Lab PLA-CF",
-    "brand": "Bambu Lab",
-    "product": "PLA-CF",
-    "type": "PLA-CF",
+    "source": "overlay",
+    "manufacturer": "Annex Engineering",
+    "model": "K3",
+    "full_name": "Annex K3",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.2,
-    "typical_price_eur_kg": 35
+    "build_volume_mm": {
+      "x": 180,
+      "y": 180,
+      "z": 180
+    },
+    "build_volume_cm3": 5832,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 300,
+    "bed_type": "CrossXY",
+    "power_w": 300,
+    "heater_power_w": 250,
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 60,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 280
   },
   {
-    "full_name": "Bambu Lab TPU 95A",
-    "brand": "Bambu Lab",
-    "product": "TPU 95A",
-    "type": "TPU",
+    "source": "overlay",
+    "manufacturer": "Voron Design",
+    "model": "2.4 250",
+    "full_name": "Voron 2.4 250",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 32
+    "build_volume_mm": {
+      "x": 250,
+      "y": 250,
+      "z": 220
+    },
+    "build_volume_cm3": 13750,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "bed_type": "CoreXY",
+    "power_w": 600,
+    "heater_power_w": 400,
+    "typical_price_eur": 700,
+    "maintenance_eur_year": 80,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "ColorFabb bronzeFill",
-    "brand": "ColorFabb",
-    "product": "bronzeFill",
-    "type": "PLA-metal",
+    "source": "overlay",
+    "manufacturer": "Voron Design",
+    "model": "2.4 300",
+    "full_name": "Voron 2.4 300",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 3.9,
-    "typical_price_eur_kg": 55
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 280
+    },
+    "build_volume_cm3": 25200,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "bed_type": "CoreXY",
+    "power_w": 700,
+    "heater_power_w": 500,
+    "typical_price_eur": 800,
+    "maintenance_eur_year": 80,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "ColorFabb HT",
-    "brand": "ColorFabb",
-    "product": "HT",
-    "type": "co-polyester",
+    "source": "overlay",
+    "manufacturer": "Voron Design",
+    "model": "Trident 250",
+    "full_name": "Voron Trident 250",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.16,
-    "typical_price_eur_kg": 45
+    "build_volume_mm": {
+      "x": 250,
+      "y": 250,
+      "z": 250
+    },
+    "build_volume_cm3": 15625,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "bed_type": "CoreXY",
+    "power_w": 550,
+    "heater_power_w": 380,
+    "typical_price_eur": 650,
+    "maintenance_eur_year": 70,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   },
   {
-    "full_name": "ColorFabb nGen",
-    "brand": "ColorFabb",
-    "product": "nGen",
-    "type": "PETG",
+    "source": "overlay",
+    "manufacturer": "Voron Design",
+    "model": "Trident 350",
+    "full_name": "Voron Trident 350",
     "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 38
-  },
-  {
-    "full_name": "ColorFabb PLA/PHA",
-    "brand": "ColorFabb",
-    "product": "PLA/PHA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "ColorFabb woodFill",
-    "brand": "ColorFabb",
-    "product": "woodFill",
-    "type": "PLA-wood",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 42
-  },
-  {
-    "full_name": "Creality CR-ABS",
-    "brand": "Creality",
-    "product": "CR-ABS",
-    "type": "ABS",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 17
-  },
-  {
-    "full_name": "Creality CR-PLA",
-    "brand": "Creality",
-    "product": "CR-PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 15
-  },
-  {
-    "full_name": "Creality Hyper PETG",
-    "brand": "Creality",
-    "product": "Hyper PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 18
-  },
-  {
-    "full_name": "Creality Hyper PLA",
-    "brand": "Creality",
-    "product": "Hyper PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 16
-  },
-  {
-    "full_name": "Elegoo 8K Standard Resin",
-    "brand": "Elegoo",
-    "product": "8K Standard Resin",
-    "type": "standard",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 28
-  },
-  {
-    "full_name": "Elegoo ABS-Like Resin",
-    "brand": "Elegoo",
-    "product": "ABS-Like Resin",
-    "type": "abs-like",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 30
-  },
-  {
-    "full_name": "Elegoo Plant-Based Resin",
-    "brand": "Elegoo",
-    "product": "Plant-Based Resin",
-    "type": "plant-based",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.08,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "Elegoo Standard Resin",
-    "brand": "Elegoo",
-    "product": "Standard Resin",
-    "type": "standard",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 25
-  },
-  {
-    "full_name": "Elegoo Tough Resin",
-    "brand": "Elegoo",
-    "product": "Tough Resin",
-    "type": "tough",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 38
-  },
-  {
-    "full_name": "Elegoo Water Washable Resin",
-    "brand": "Elegoo",
-    "product": "Water Washable Resin",
-    "type": "water-washable",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 32
-  },
-  {
-    "full_name": "Eryone PETG",
-    "brand": "Eryone",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 18
-  },
-  {
-    "full_name": "Eryone PLA",
-    "brand": "Eryone",
-    "product": "PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 16
-  },
-  {
-    "full_name": "Eryone Silk PLA",
-    "brand": "Eryone",
-    "product": "Silk PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "eSUN ABS+",
-    "brand": "eSUN",
-    "product": "ABS+",
-    "type": "ABS",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 19
-  },
-  {
-    "full_name": "eSUN ASA",
-    "brand": "eSUN",
-    "product": "ASA",
-    "type": "ASA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.07,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "eSUN ePA-CF",
-    "brand": "eSUN",
-    "product": "ePA-CF",
-    "type": "Nylon-CF",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.18,
-    "typical_price_eur_kg": 55
-  },
-  {
-    "full_name": "eSUN eSilk PLA",
-    "brand": "eSUN",
-    "product": "eSilk PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 25
-  },
-  {
-    "full_name": "eSUN eTPU-95A",
-    "brand": "eSUN",
-    "product": "eTPU-95A",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 30
-  },
-  {
-    "full_name": "eSUN PETG",
-    "brand": "eSUN",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 20
-  },
-  {
-    "full_name": "eSUN PLA Matte",
-    "brand": "eSUN",
-    "product": "PLA Matte",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "eSUN PLA+",
-    "brand": "eSUN",
-    "product": "PLA+",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 18
-  },
-  {
-    "full_name": "Fiberlogy Easy PLA",
-    "brand": "Fiberlogy",
-    "product": "Easy PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 20
-  },
-  {
-    "full_name": "Fiberlogy HD PLA",
-    "brand": "Fiberlogy",
-    "product": "HD PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 25
-  },
-  {
-    "full_name": "Fiberlogy PA12+CF",
-    "brand": "Fiberlogy",
-    "product": "PA12+CF",
-    "type": "Nylon-CF",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 58
-  },
-  {
-    "full_name": "Fiberlogy PETG",
-    "brand": "Fiberlogy",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 24
-  },
-  {
-    "full_name": "Fillamentum ASA Extrafill",
-    "brand": "Fillamentum",
-    "product": "ASA Extrafill",
-    "type": "ASA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.07,
-    "typical_price_eur_kg": 32
-  },
-  {
-    "full_name": "Fillamentum Flexfill 98A",
-    "brand": "Fillamentum",
-    "product": "Flexfill 98A",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.22,
-    "typical_price_eur_kg": 38
-  },
-  {
-    "full_name": "Fillamentum PLA Extrafill",
-    "brand": "Fillamentum",
-    "product": "PLA Extrafill",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 28
-  },
-  {
-    "full_name": "Hatchbox ABS",
-    "brand": "Hatchbox",
-    "product": "ABS",
-    "type": "ABS",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "Hatchbox PETG",
-    "brand": "Hatchbox",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 24
-  },
-  {
-    "full_name": "Hatchbox PLA",
-    "brand": "Hatchbox",
-    "product": "PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "Hatchbox TPU",
-    "brand": "Hatchbox",
-    "product": "TPU",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 30
-  },
-  {
-    "full_name": "Liqcreate Flexible-X",
-    "brand": "Liqcreate",
-    "product": "Flexible-X",
-    "type": "flexible",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.05,
-    "typical_price_eur_kg": 55
-  },
-  {
-    "full_name": "Liqcreate Premium White",
-    "brand": "Liqcreate",
-    "product": "Premium White",
-    "type": "standard",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 45
-  },
-  {
-    "full_name": "Liqcreate Strong-X",
-    "brand": "Liqcreate",
-    "product": "Strong-X",
-    "type": "engineering",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 60
-  },
-  {
-    "full_name": "Overture PETG",
-    "brand": "Overture",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 19
-  },
-  {
-    "full_name": "Overture PLA",
-    "brand": "Overture",
-    "product": "PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 17
-  },
-  {
-    "full_name": "Overture TPU",
-    "brand": "Overture",
-    "product": "TPU",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 28
-  },
-  {
-    "full_name": "Phrozen Aqua Resin",
-    "brand": "Phrozen",
-    "product": "Aqua Resin",
-    "type": "water-washable",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.08,
-    "typical_price_eur_kg": 32
-  },
-  {
-    "full_name": "Phrozen Nylon-Like Resin",
-    "brand": "Phrozen",
-    "product": "Nylon-Like Resin",
-    "type": "engineering",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 48
-  },
-  {
-    "full_name": "Phrozen Onyx Rigid Pro410",
-    "brand": "Phrozen",
-    "product": "Onyx Rigid Pro410",
-    "type": "engineering",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 55
-  },
-  {
-    "full_name": "Phrozen Rock Resin",
-    "brand": "Phrozen",
-    "product": "Rock Resin",
-    "type": "tough",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.15,
-    "typical_price_eur_kg": 45
-  },
-  {
-    "full_name": "Polymaker PolyFlex TPU95",
-    "brand": "Polymaker",
-    "product": "PolyFlex TPU95",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.22,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "Polymaker PolyLite ABS",
-    "brand": "Polymaker",
-    "product": "PolyLite ABS",
-    "type": "ABS",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "Polymaker PolyLite PETG",
-    "brand": "Polymaker",
-    "product": "PolyLite PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 22
-  },
-  {
-    "full_name": "Polymaker PolyLite PLA",
-    "brand": "Polymaker",
-    "product": "PolyLite PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 20
-  },
-  {
-    "full_name": "Polymaker PolyMax PC",
-    "brand": "Polymaker",
-    "product": "PolyMax PC",
-    "type": "PC",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.19,
-    "typical_price_eur_kg": 45
-  },
-  {
-    "full_name": "Polymaker PolyMax PETG",
-    "brand": "Polymaker",
-    "product": "PolyMax PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 32
-  },
-  {
-    "full_name": "Polymaker PolyTerra PLA",
-    "brand": "Polymaker",
-    "product": "PolyTerra PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 20
-  },
-  {
-    "full_name": "Prusament ASA",
-    "brand": "Prusament",
-    "product": "ASA",
-    "type": "ASA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.07,
-    "typical_price_eur_kg": 30
-  },
-  {
-    "full_name": "Prusament PA11-CF",
-    "brand": "Prusament",
-    "product": "PA11-CF",
-    "type": "Nylon-CF",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 65
-  },
-  {
-    "full_name": "Prusament PETG",
-    "brand": "Prusament",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 27
-  },
-  {
-    "full_name": "Prusament PLA",
-    "brand": "Prusament",
-    "product": "PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 25
-  },
-  {
-    "full_name": "Prusament PVB",
-    "brand": "Prusament",
-    "product": "PVB",
-    "type": "PVB",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.08,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "Siraya Tech Blu",
-    "brand": "Siraya Tech",
-    "product": "Blu",
-    "type": "tough",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.12,
-    "typical_price_eur_kg": 45
-  },
-  {
-    "full_name": "Siraya Tech Build",
-    "brand": "Siraya Tech",
-    "product": "Build",
-    "type": "abs-like",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.11,
-    "typical_price_eur_kg": 40
-  },
-  {
-    "full_name": "Siraya Tech Fast",
-    "brand": "Siraya Tech",
-    "product": "Fast",
-    "type": "standard",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.1,
-    "typical_price_eur_kg": 35
-  },
-  {
-    "full_name": "Siraya Tech Tenacious",
-    "brand": "Siraya Tech",
-    "product": "Tenacious",
-    "type": "flexible",
-    "technology": "SLA",
-    "category": "material",
-    "density_g_cm3": 1.07,
-    "typical_price_eur_kg": 50
-  },
-  {
-    "full_name": "Sunlu ABS",
-    "brand": "Sunlu",
-    "product": "ABS",
-    "type": "ABS",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.04,
-    "typical_price_eur_kg": 15
-  },
-  {
-    "full_name": "Sunlu PETG",
-    "brand": "Sunlu",
-    "product": "PETG",
-    "type": "PETG",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.27,
-    "typical_price_eur_kg": 16
-  },
-  {
-    "full_name": "Sunlu PLA",
-    "brand": "Sunlu",
-    "product": "PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 14
-  },
-  {
-    "full_name": "Sunlu PLA Meta",
-    "brand": "Sunlu",
-    "product": "PLA Meta",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 18
-  },
-  {
-    "full_name": "Sunlu Silk PLA",
-    "brand": "Sunlu",
-    "product": "Silk PLA",
-    "type": "PLA",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.24,
-    "typical_price_eur_kg": 20
-  },
-  {
-    "full_name": "Sunlu TPU 95A",
-    "brand": "Sunlu",
-    "product": "TPU 95A",
-    "type": "TPU",
-    "technology": "FDM",
-    "category": "material",
-    "density_g_cm3": 1.21,
-    "typical_price_eur_kg": 22
+    "build_volume_mm": {
+      "x": 350,
+      "y": 350,
+      "z": 250
+    },
+    "build_volume_cm3": 30625,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "bed_type": "CoreXY",
+    "power_w": 800,
+    "heater_power_w": 600,
+    "typical_price_eur": 950,
+    "maintenance_eur_year": 90,
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
   }
 ]

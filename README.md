@@ -107,9 +107,19 @@ python3 scripts/validate.py printers/fdm/bambu-lab/x1-carbon.json
 
 ## Stats
 
-- **232+ printers** (75 FDM + 157 SLA)
-- **20+ manufacturers**
+- **246 printers** (89 FDM + 157 SLA) from 30+ manufacturers
+- **347 materials** (filaments + resins) from 36 brands
 - Updated regularly by the community
+
+## Materials catalog (NEW)
+
+Download `materials_catalog.json` — 347 filaments and resins with density, price, and temperature data:
+
+```bash
+curl -sL https://raw.githubusercontent.com/swordlab/open-3d-printer-database/main/materials_catalog.json -o materials.json
+```
+
+Brands included: 3DJake, Amazon Basics, Anycubic, AzureFilm, Bambu Lab, COEX 3D, Creality, Deeple, Elegoo, Eolas Prints, Eryone, eSUN, FDplast, FlashForge, ICE Filaments, Inslogic, JAYO, Overture, Polymaker, Prusa, Rat Rig, RBD, Recreus, Siraya Tech, Smartfil, Sting3D, Sunlu, Tianse, Tinmorry, Yxpolyer, and more.
 
 ## License
 
