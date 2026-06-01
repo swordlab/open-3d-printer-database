@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Sovol",
+  "model": "SV08 Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 500,
+      "y": 500,
+      "z": 500
+    },
+    "build_volume_cm3": 125000.0,
+    "power_w": 800,
+    "heater_power_w": 500
+  },
+  "cost": {
+    "typical_price_eur": 599,
+    "maintenance_eur_year": 70
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

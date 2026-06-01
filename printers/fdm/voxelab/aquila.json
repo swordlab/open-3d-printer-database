@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Voxelab",
+  "model": "Aquila",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 220,
+      "y": 220,
+      "z": 250
+    },
+    "build_volume_cm3": 12100,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 100,
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 170,
+    "maintenance_eur_year": 35
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 200
+  },
+  "contributed_by": "swordlab"
+}

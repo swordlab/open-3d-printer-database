@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Modix",
+  "model": "Big Meter",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 1010,
+      "y": 1010,
+      "z": 1010
+    },
+    "build_volume_cm3": 1030301,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 200,
+    "power_w": 3000,
+    "heater_power_w": 1500
+  },
+  "cost": {
+    "typical_price_eur": 15000,
+    "maintenance_eur_year": 300
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 280
+  },
+  "contributed_by": "swordlab"
+}

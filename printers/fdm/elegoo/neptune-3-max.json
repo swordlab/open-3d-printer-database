@@ -1,0 +1,18 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Neptune 3 Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 500,
+    "heater_power_w": 420
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

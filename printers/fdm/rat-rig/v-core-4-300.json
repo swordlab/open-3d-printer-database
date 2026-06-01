@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Rat Rig",
+  "model": "V-Core 4 300",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 300
+    },
+    "build_volume_cm3": 27000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 800,
+    "power_w": 500,
+    "heater_power_w": 380
+  },
+  "cost": {
+    "typical_price_eur": 1100,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

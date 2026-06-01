@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Kingroon",
+  "model": "KP3S",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 180,
+      "y": 180,
+      "z": 180
+    },
+    "build_volume_cm3": 5832,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 100,
+    "power_w": 240,
+    "heater_power_w": 180
+  },
+  "cost": {
+    "typical_price_eur": 160,
+    "maintenance_eur_year": 30
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 230
+  },
+  "contributed_by": "swordlab"
+}

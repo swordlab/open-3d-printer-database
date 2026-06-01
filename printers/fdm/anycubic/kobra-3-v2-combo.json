@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Kobra 3 V2 Combo",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 16250,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "power_w": 500
+  },
+  "cost": {
+    "typical_price_eur": 549,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

@@ -4,6 +4,7 @@
   "technology": "FDM",
   "status": "current",
   "specs": {
+    "build_volume_cm3": 12964,
     "power_w": 120
   },
   "cost": {

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Formlabs",
+  "model": "Fuse 1+ 30W",
+  "technology": "SLS",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 165,
+      "y": 165,
+      "z": 300
+    },
+    "build_volume_cm3": 8168,
+    "power_w": 1500
+  },
+  "cost": {
+    "typical_price_eur": 27000,
+    "maintenance_eur_year": 800
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

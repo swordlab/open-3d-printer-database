@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Sinterit",
+  "model": "Lisa Pro",
+  "technology": "SLS",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 110,
+      "y": 160,
+      "z": 230
+    },
+    "build_volume_cm3": 4048,
+    "power_w": 1100
+  },
+  "cost": {
+    "typical_price_eur": 18500
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

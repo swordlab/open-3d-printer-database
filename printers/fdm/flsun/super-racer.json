@@ -1,0 +1,19 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "Super Racer",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 22308,
+    "power_w": 300,
+    "heater_power_w": 180
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

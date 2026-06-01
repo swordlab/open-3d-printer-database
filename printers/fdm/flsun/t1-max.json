@@ -1,0 +1,18 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "T1 Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 600,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 899,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

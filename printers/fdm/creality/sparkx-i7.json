@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "SparkX i7",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 12100,
+    "power_w": 500,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 500,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

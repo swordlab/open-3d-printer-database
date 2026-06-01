@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Uniz",
+  "model": "Slash 2 Plus",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 100
+  },
+  "cost": {
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

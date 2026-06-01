@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "Sermoon V1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 5053,
+    "power_w": 250,
+    "heater_power_w": 150
+  },
+  "cost": {
+    "typical_price_eur": 250,
+    "maintenance_eur_year": 25
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

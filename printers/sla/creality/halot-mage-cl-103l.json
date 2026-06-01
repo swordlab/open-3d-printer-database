@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot Mage CL-103L",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 228.1,
+      "y": 128.3,
+      "z": 230.0
+    },
+    "build_volume_cm3": 6731.1,
+    "power_w": 50,
+    "resolution_x": 7680,
+    "resolution_y": 4320,
+    "pixel_size_um": 29.7
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)",
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "i3 Mega S",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 9040,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 60,
+    "power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 199,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 210
+  },
+  "contributed_by": "swordlab"
+}

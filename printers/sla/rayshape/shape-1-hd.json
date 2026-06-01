@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Rayshape",
+  "model": "Shape 1 HD",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 100
+  },
+  "cost": {
+    "typical_price_eur": 1200,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

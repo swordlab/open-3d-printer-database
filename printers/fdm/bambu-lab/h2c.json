@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "H2C",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 34320,
+    "power_w": 1800,
+    "heater_power_w": 1000
+  },
+  "cost": {
+    "typical_price_eur": 2399,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

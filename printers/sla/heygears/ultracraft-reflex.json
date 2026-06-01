@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HeyGears",
+  "model": "UltraCraft Reflex",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 90
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

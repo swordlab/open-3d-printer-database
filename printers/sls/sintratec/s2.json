@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sintratec",
+  "model": "S2",
+  "technology": "SLS",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 160,
+      "y": 160,
+      "z": 400
+    },
+    "build_volume_cm3": 10240,
+    "power_w": 1400
+  },
+  "cost": {
+    "typical_price_eur": 37000,
+    "maintenance_eur_year": 700
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

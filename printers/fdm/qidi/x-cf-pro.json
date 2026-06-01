@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Qidi",
+  "model": "X-CF Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 22500,
+    "power_w": 600,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 1200,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

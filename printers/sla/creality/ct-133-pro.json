@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "CT-133 Pro",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 293.8,
+      "y": 165.2,
+      "z": 300.0
+    },
+    "build_volume_cm3": 14560.7,
+    "resolution_x": 3840,
+    "resolution_y": 2160,
+    "pixel_size_um": 76.5
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

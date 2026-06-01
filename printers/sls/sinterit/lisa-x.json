@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sinterit",
+  "model": "Lisa X",
+  "technology": "SLS",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 180,
+      "y": 130,
+      "z": 300
+    },
+    "build_volume_cm3": 7020,
+    "power_w": 1300
+  },
+  "cost": {
+    "typical_price_eur": 23000,
+    "maintenance_eur_year": 600
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

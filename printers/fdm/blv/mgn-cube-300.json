@@ -1,0 +1,30 @@
+{
+  "manufacturer": "BLV",
+  "model": "mgn Cube 300",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 365
+    },
+    "build_volume_cm3": 32850,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 300,
+    "power_w": 400,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 800,
+    "maintenance_eur_year": 70
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

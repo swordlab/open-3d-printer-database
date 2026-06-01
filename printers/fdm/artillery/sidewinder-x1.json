@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Artillery",
+  "model": "Sidewinder X1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "build_volume_cm3": 36000,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 150,
+    "power_w": 500,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 240
+  },
+  "contributed_by": "swordlab"
+}

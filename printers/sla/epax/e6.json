@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Epax",
+  "model": "E6",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 60
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

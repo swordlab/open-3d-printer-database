@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Sovol",
+  "model": "SV04",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 400
+    },
+    "build_volume_cm3": 36000.0,
+    "power_w": 400,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 349,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

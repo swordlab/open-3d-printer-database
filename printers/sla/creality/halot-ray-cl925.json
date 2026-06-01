@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot Ray CL925",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 198.1,
+      "y": 123.8,
+      "z": 210.0
+    },
+    "build_volume_cm3": 5150.2,
+    "power_w": 40,
+    "resolution_x": 5760,
+    "resolution_y": 3600,
+    "pixel_size_um": 34.4
+  },
+  "cost": {
+    "typical_price_eur": 199,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)",
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

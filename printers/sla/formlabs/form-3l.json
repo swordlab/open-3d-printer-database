@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Formlabs",
+  "model": "Form 3L",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 90
+  },
+  "cost": {
+    "typical_price_eur": 8999,
+    "maintenance_eur_year": 500
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

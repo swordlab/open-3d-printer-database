@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Mingda",
+  "model": "Magician X",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 13754,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 200,
+    "power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 399,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 80,
+    "typical_nozzle_temp": 230
+  },
+  "contributed_by": "swordlab"
+}

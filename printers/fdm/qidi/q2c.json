@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Qidi",
+  "model": "Q2C",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 18662,
+    "power_w": 450,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 370,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

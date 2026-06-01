@@ -1,0 +1,18 @@
+{
+  "manufacturer": "INTAMSYS",
+  "model": "FUNMAT PRO 410",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 3000,
+    "heater_power_w": 1500
+  },
+  "cost": {
+    "typical_price_eur": 25000,
+    "maintenance_eur_year": 3000
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

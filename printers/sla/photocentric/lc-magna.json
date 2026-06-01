@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Photocentric",
+  "model": "LC Magna",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 120
+  },
+  "cost": {
+    "typical_price_eur": 4000,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

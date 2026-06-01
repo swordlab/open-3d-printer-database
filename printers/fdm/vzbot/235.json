@@ -1,0 +1,30 @@
+{
+  "manufacturer": "VzBot",
+  "model": "235",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 235,
+      "y": 235,
+      "z": 220
+    },
+    "build_volume_cm3": 12149.5,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "power_w": 400,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 250
+  },
+  "contributed_by": "swordlab"
+}

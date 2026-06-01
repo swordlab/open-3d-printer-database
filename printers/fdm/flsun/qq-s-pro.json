@@ -1,0 +1,19 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "QQ-S Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 21632,
+    "power_w": 360,
+    "heater_power_w": 200
+  },
+  "cost": {
+    "typical_price_eur": 296,
+    "maintenance_eur_year": 30
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

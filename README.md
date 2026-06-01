@@ -107,13 +107,13 @@ python3 scripts/validate.py printers/fdm/bambu-lab/x1-carbon.json
 
 ## Stats
 
-- **246 printers** (89 FDM + 157 SLA) from 30+ manufacturers
-- **347 materials** (filaments + resins) from 36 brands
+- **357 printers** (163 FDM + 194 SLA) from 59 manufacturers
+- **517 materials** (filaments + resins) from 57 brands
 - Updated regularly by the community
 
 ## Materials catalog (NEW)
 
-Download `materials_catalog.json` — 347 filaments and resins with density, price, and temperature data:
+Download `materials_catalog.json` — 517 filaments and resins with density, price, and temperature data:
 
 ```bash
 curl -sL https://raw.githubusercontent.com/swordlab/open-3d-printer-database/main/materials_catalog.json -o materials.json

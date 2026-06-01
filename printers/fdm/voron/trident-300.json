@@ -1,0 +1,28 @@
+{
+  "manufacturer": "Voron",
+  "model": "Trident 300",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300.0,
+      "y": 300.0,
+      "z": 250.0
+    },
+    "build_volume_cm3": 22500.0,
+    "power_w": 700,
+    "heater_power_w": 450
+  },
+  "cost": {
+    "typical_price_eur": 800,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 110,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

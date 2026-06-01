@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Flashforge",
+  "model": "Creator Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 227,
+      "y": 148,
+      "z": 150
+    },
+    "build_volume_cm3": 5039,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 100,
+    "power_w": 350,
+    "heater_power_w": 280
+  },
+  "cost": {
+    "typical_price_eur": 450,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 120,
+    "typical_nozzle_temp": 240
+  },
+  "contributed_by": "swordlab"
+}

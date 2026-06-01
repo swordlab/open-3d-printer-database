@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "OrangeStorm Giga",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 640000,
+    "power_w": 1530,
+    "heater_power_w": 1000
+  },
+  "cost": {
+    "typical_price_eur": 2749,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

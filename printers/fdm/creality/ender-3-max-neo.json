@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender-3 Max Neo",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 320
+    },
+    "build_volume_cm3": 28800,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 120,
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 35
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 210
+  },
+  "contributed_by": "swordlab"
+}

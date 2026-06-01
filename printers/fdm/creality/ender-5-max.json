@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender 5 Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 31500,
+    "power_w": 500,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 699,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

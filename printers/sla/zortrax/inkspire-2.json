@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Zortrax",
+  "model": "Inkspire 2",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 90
+  },
+  "cost": {
+    "typical_price_eur": 2200,
+    "maintenance_eur_year": 130
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

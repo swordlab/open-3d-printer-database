@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot One CL-60",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 81.0,
+      "y": 128.0,
+      "z": 160.0
+    },
+    "build_volume_cm3": 1658.9,
+    "power_w": 45,
+    "resolution_x": 1620,
+    "resolution_y": 2560,
+    "pixel_size_um": 50.0
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)",
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

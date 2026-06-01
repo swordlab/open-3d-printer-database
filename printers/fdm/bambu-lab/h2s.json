@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "H2S",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 33800,
+    "power_w": 1800,
+    "heater_power_w": 1000
+  },
+  "cost": {
+    "typical_price_eur": 1249,
+    "maintenance_eur_year": 150
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

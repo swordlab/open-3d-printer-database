@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Sintratec",
+  "model": "Kit",
+  "technology": "SLS",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 110,
+      "y": 110,
+      "z": 110
+    },
+    "build_volume_cm3": 1331,
+    "power_w": 600
+  },
+  "cost": {
+    "typical_price_eur": 5500,
+    "maintenance_eur_year": 200
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

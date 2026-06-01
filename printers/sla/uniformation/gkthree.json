@@ -1,0 +1,17 @@
+{
+  "manufacturer": "UniFormation",
+  "model": "GKthree",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 130
+  },
+  "cost": {
+    "typical_price_eur": 700,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

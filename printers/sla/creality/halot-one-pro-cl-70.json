@@ -1,0 +1,22 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot One Pro CL-70",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 130.6,
+      "y": 122.4,
+      "z": 160.0
+    },
+    "build_volume_cm3": 2556.9,
+    "resolution_x": 2560,
+    "resolution_y": 2400,
+    "pixel_size_um": 51.0
+  },
+  "cost": {},
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)"
+  ],
+  "contributed_by": "swordlab"
+}

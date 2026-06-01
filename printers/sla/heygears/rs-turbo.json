@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HeyGears",
+  "model": "RS Turbo",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 860,
+    "maintenance_eur_year": 300
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

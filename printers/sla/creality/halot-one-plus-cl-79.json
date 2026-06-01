@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Creality",
+  "model": "Halot One Plus CL-79",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 172.8,
+      "y": 102.4,
+      "z": 160.0
+    },
+    "build_volume_cm3": 2831.2,
+    "power_w": 45,
+    "resolution_x": 4320,
+    "resolution_y": 2560,
+    "pixel_size_um": 40.0
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "UVtools (github.com/sn4k3/UVtools)",
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "P2S Combo",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 16777,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "power_w": 1300,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 899,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 65,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

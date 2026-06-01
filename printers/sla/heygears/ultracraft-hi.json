@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HeyGears",
+  "model": "UltraCraft Hi",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 180
+  },
+  "cost": {
+    "typical_price_eur": 2500,
+    "maintenance_eur_year": 250
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Sovol",
+  "model": "SV07 Plus",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 350
+    },
+    "build_volume_cm3": 31500.0,
+    "power_w": 600,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 399,
+    "maintenance_eur_year": 55
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Sharebot",
+  "model": "Viking",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 80
+  },
+  "cost": {
+    "typical_price_eur": 2500,
+    "maintenance_eur_year": 150
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

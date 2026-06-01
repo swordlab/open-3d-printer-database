@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Voron Design",
+  "model": "Trident 350",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 350,
+      "y": 350,
+      "z": 250
+    },
+    "build_volume_cm3": 30625,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "power_w": 800,
+    "heater_power_w": 600
+  },
+  "cost": {
+    "typical_price_eur": 950,
+    "maintenance_eur_year": 90
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

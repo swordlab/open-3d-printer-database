@@ -1,0 +1,18 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Neptune 3 Plus",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 480,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 249,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

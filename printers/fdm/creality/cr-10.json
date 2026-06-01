@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "CR-10",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 36000,
+    "power_w": 450,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 400,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

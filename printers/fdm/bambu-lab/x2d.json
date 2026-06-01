@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Bambu Lab",
+  "model": "X2D",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 17039,
+    "power_w": 1200,
+    "heater_power_w": 800
+  },
+  "cost": {
+    "typical_price_eur": 629,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

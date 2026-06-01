@@ -4,6 +4,7 @@
   "technology": "SLA",
   "status": "current",
   "specs": {
+    "build_volume_cm3": 5478,
     "power_w": 90
   },
   "cost": {

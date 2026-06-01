@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Shining 3D",
+  "model": "AccuFab-L4K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 80
+  },
+  "cost": {
+    "typical_price_eur": 1500,
+    "maintenance_eur_year": 120
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

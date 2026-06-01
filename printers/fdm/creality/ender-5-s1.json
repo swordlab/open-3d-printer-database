@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender 5 S1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 13552,
+    "power_w": 400,
+    "heater_power_w": 280
+  },
+  "cost": {
+    "typical_price_eur": 450,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

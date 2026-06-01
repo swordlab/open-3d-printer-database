@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Geeetech",
+  "model": "Alkaid",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 45
+  },
+  "cost": {
+    "typical_price_eur": 170,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

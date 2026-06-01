@@ -4,6 +4,7 @@
   "technology": "FDM",
   "status": "current",
   "specs": {
+    "build_volume_cm3": 88200,
     "power_w": 600,
     "heater_power_w": 400
   },

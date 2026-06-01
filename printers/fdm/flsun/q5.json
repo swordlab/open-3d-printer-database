@@ -1,0 +1,19 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "Q5",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 8000,
+    "power_w": 220,
+    "heater_power_w": 120
+  },
+  "cost": {
+    "typical_price_eur": 180,
+    "maintenance_eur_year": 25
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

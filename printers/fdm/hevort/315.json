@@ -1,0 +1,30 @@
+{
+  "manufacturer": "HevORT",
+  "model": "315",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 315,
+      "y": 315,
+      "z": 315
+    },
+    "build_volume_cm3": 31256,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 500,
+    "power_w": 500,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 1500,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 100,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

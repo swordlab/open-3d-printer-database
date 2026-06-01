@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Anycubic",
+  "model": "Kobra S1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 15625,
+    "power_w": 1500,
+    "heater_power_w": 800
+  },
+  "cost": {
+    "typical_price_eur": 449,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

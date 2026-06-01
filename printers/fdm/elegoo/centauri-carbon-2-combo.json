@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Centauri Carbon 2 Combo",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 16777,
+    "power_w": 1100,
+    "heater_power_w": 700
+  },
+  "cost": {
+    "typical_price_eur": 446,
+    "maintenance_eur_year": 70
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

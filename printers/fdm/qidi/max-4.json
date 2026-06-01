@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Qidi",
+  "model": "Max 4",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 51714,
+    "power_w": 800,
+    "heater_power_w": 500
+  },
+  "cost": {
+    "typical_price_eur": 970,
+    "maintenance_eur_year": 80
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "HeyGears",
+  "model": "UltraCraft A2D 4K",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 220
+  },
+  "cost": {
+    "typical_price_eur": 4500,
+    "maintenance_eur_year": 400
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

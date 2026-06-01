@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Sovol",
+  "model": "Zero",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 152,
+      "y": 152,
+      "z": 152
+    },
+    "build_volume_cm3": 3511.8,
+    "power_w": 400,
+    "heater_power_w": 200
+  },
+  "cost": {
+    "typical_price_eur": 299,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,18 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "S1 Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 1300,
+    "heater_power_w": 800
+  },
+  "cost": {
+    "typical_price_eur": 1599,
+    "maintenance_eur_year": 100
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

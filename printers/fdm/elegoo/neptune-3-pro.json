@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Neptune 3 Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 14175,
+    "power_w": 300,
+    "heater_power_w": 200
+  },
+  "cost": {
+    "typical_price_eur": 187,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

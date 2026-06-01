@@ -1,0 +1,19 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "V400",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 36900,
+    "power_w": 360,
+    "heater_power_w": 200
+  },
+  "cost": {
+    "typical_price_eur": 849,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

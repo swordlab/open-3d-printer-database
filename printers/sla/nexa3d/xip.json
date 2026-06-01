@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Nexa3D",
+  "model": "XiP",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 150
+  },
+  "cost": {
+    "typical_price_eur": 3500,
+    "maintenance_eur_year": 250
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,18 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "T1",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 450,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 449,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

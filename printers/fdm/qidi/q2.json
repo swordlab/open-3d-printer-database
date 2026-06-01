@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Qidi",
+  "model": "Q2",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 18662,
+    "power_w": 500,
+    "heater_power_w": 350
+  },
+  "cost": {
+    "typical_price_eur": 460,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

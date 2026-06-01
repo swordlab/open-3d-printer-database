@@ -1,0 +1,18 @@
+{
+  "manufacturer": "FLSUN",
+  "model": "V400 Max",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 1400,
+    "heater_power_w": 1000
+  },
+  "cost": {
+    "typical_price_eur": 1599,
+    "maintenance_eur_year": 120
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

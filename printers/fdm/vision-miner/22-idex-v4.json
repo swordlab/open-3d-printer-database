@@ -1,0 +1,16 @@
+{
+  "manufacturer": "Vision Miner",
+  "model": "22 IDEX V4",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "power_w": 2200
+  },
+  "cost": {
+    "typical_price_eur": 20000
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

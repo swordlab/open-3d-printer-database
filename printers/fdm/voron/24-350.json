@@ -1,0 +1,28 @@
+{
+  "manufacturer": "Voron",
+  "model": "2.4 350",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 350.0,
+      "y": 350.0,
+      "z": 350.0
+    },
+    "build_volume_cm3": 42875.0,
+    "power_w": 800,
+    "heater_power_w": 500
+  },
+  "cost": {
+    "typical_price_eur": 900,
+    "maintenance_eur_year": 120
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 110,
+    "typical_nozzle_temp": 260
+  },
+  "contributed_by": "swordlab"
+}

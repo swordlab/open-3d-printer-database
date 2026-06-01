@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Monoprice",
+  "model": "Select Mini V2",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 120,
+      "y": 120,
+      "z": 120
+    },
+    "build_volume_cm3": 1728,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 55,
+    "power_w": 150,
+    "heater_power_w": 100
+  },
+  "cost": {
+    "typical_price_eur": 180,
+    "maintenance_eur_year": 30
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 220
+  },
+  "contributed_by": "swordlab"
+}

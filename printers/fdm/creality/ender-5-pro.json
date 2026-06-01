@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "Ender 5 Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 14520,
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 350,
+    "maintenance_eur_year": 40
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

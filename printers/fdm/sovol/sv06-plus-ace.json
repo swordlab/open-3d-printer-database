@@ -1,0 +1,24 @@
+{
+  "manufacturer": "Sovol",
+  "model": "SV06 Plus ACE",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 300,
+      "y": 300,
+      "z": 350
+    },
+    "build_volume_cm3": 31500.0,
+    "power_w": 500,
+    "heater_power_w": 300
+  },
+  "cost": {
+    "typical_price_eur": 299,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

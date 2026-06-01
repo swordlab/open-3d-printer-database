@@ -1,0 +1,30 @@
+{
+  "manufacturer": "FlashForge",
+  "model": "AD5X",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_mm": {
+      "x": 220,
+      "y": 220,
+      "z": 220
+    },
+    "build_volume_cm3": 10648,
+    "nozzle_diameter_mm": 0.4,
+    "max_speed_mm_s": 600,
+    "power_w": 400,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 599,
+    "maintenance_eur_year": 45
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "temperatures": {
+    "typical_bed_temp": 60,
+    "typical_nozzle_temp": 210
+  },
+  "contributed_by": "swordlab"
+}

@@ -1,0 +1,17 @@
+{
+  "manufacturer": "QIDI",
+  "model": "Shadow 6.0 Pro",
+  "technology": "SLA",
+  "status": "current",
+  "specs": {
+    "power_w": 50
+  },
+  "cost": {
+    "typical_price_eur": 250,
+    "maintenance_eur_year": 50
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

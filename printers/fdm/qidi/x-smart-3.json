@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Qidi",
+  "model": "X-Smart 3",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 5355,
+    "power_w": 350,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 440,
+    "maintenance_eur_year": 35
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

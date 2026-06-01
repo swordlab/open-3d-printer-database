@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Elegoo",
+  "model": "Neptune 2",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 12100,
+    "power_w": 400,
+    "heater_power_w": 250
+  },
+  "cost": {
+    "typical_price_eur": 149,
+    "maintenance_eur_year": 35
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}

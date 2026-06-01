@@ -1,0 +1,19 @@
+{
+  "manufacturer": "Creality",
+  "model": "K2 Pro",
+  "technology": "FDM",
+  "status": "current",
+  "specs": {
+    "build_volume_cm3": 27000,
+    "power_w": 600,
+    "heater_power_w": 400
+  },
+  "cost": {
+    "typical_price_eur": 750,
+    "maintenance_eur_year": 60
+  },
+  "sources": [
+    "stimalo overlay (community)"
+  ],
+  "contributed_by": "swordlab"
+}
